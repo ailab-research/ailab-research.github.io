@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://ailab-research.github.io/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://ailab-research.github.io/categories/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/news/</loc>
+    <loc>https://ailab-research.github.io/tags/news/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/news/</loc>
+    <loc>https://ailab-research.github.io/categories/news/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/</loc>
+    <loc>https://ailab-research.github.io/news/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2022-06-aip-scilight/</loc>
+    <loc>https://ailab-research.github.io/news/2022-06-aip-scilight/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://ailab-research.github.io/tags/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/journal/</loc>
+    <loc>https://ailab-research.github.io/tags/journal/</loc>
     <lastmod>2022-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2022-06-paper-accepted/</loc>
+    <loc>https://ailab-research.github.io/news/2022-06-paper-accepted/</loc>
     <lastmod>2022-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/research/</loc>
+    <loc>https://ailab-research.github.io/categories/research/</loc>
     <lastmod>2022-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2022-07-lab-launched/</loc>
+    <loc>https://ailab-research.github.io/news/2022-07-lab-launched/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>https://ailab-research.github.io/authors/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://ailab-research.github.io/contact/</loc>
   </url><url>
-    <loc>/blan/</loc>
+    <loc>https://ailab-research.github.io/blan/</loc>
   </url><url>
-    <loc>/publications/</loc>
+    <loc>https://ailab-research.github.io/publications/</loc>
   </url><url>
-    <loc>/research/</loc>
+    <loc>https://ailab-research.github.io/research/</loc>
   </url>
 </urlset>

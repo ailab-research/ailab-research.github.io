@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>news on AI-Lab</title>
-    <link>/categories/news/</link>
+    <link>https://ailab-research.github.io/categories/news/</link>
     <description>Recent content in news on AI-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ailab-research.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research reported by AIP</title>
-      <link>/news/2022-06-aip-scilight/</link>
+      <link>https://ailab-research.github.io/news/2022-06-aip-scilight/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/news/2022-06-aip-scilight/</guid>
+      <guid>https://ailab-research.github.io/news/2022-06-aip-scilight/</guid>
       <description>The research conducted in the paper &amp;lsquo;Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly&amp;rsquo; was reported by AIP Scilight, congratulations.
 For more information please refer to https://aip.scitation.org/doi/full/10.1063/10.0012500.</description>
     </item>
     
     <item>
       <title>Paper accepted by Physics of Fluids</title>
-      <link>/news/2022-06-paper-accepted/</link>
+      <link>https://ailab-research.github.io/news/2022-06-paper-accepted/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/news/2022-06-paper-accepted/</guid>
+      <guid>https://ailab-research.github.io/news/2022-06-paper-accepted/</guid>
       <description>The paper &amp;lsquo;Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly&amp;rsquo; was accepted by the journal Physics of Fluids, congratulations.
 For more information please refer to https://doi.org/10.1063/5.0093208.</description>
     </item>
     
     <item>
       <title>Lab website was launched</title>
-      <link>/news/2022-07-lab-launched/</link>
+      <link>https://ailab-research.github.io/news/2022-07-lab-launched/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/news/2022-07-lab-launched/</guid>
+      <guid>https://ailab-research.github.io/news/2022-07-lab-launched/</guid>
       <description>The &amp;lsquo;Advanced Integration Laboratory (AI-Lab)&amp;rsquo; will be establish on 01 August 2022. To make more people understand our works, we launched this site for showing our research projects and results.</description>
     </item>
     
