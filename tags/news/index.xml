@@ -6,7 +6,17 @@
     <description>Recent content in news on AI-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ailab-research.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ailab-research.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper accepted by Drones</title>
+      <link>https://ailab-research.github.io/news/2022-08-paper-accepted/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ailab-research.github.io/news/2022-08-paper-accepted/</guid>
+      <description>The paper &amp;lsquo;A Neural Network Approach to Estimate Transient Aerodynamic Properties of a Flapping Wing System&amp;rsquo; was accepted by the journal Drones, congratulations.
+For more information please refer to https://doi.org/10.3390/drones6080210.</description>
+    </item>
+    
     <item>
       <title>Research reported by AIP</title>
       <link>https://ailab-research.github.io/news/2022-06-aip-scilight/</link>
