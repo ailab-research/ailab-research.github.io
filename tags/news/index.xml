@@ -6,52 +6,61 @@
     <description>Recent content in news on AI-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ailab-research.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ailab-research.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New members joined</title>
-      <link>https://ailab-research.github.io/news/2022-09-new-members/</link>
+      <title>Six Talented Individuals Join The Lab</title>
+      <link>https://ailab-research.github.io/news/2023-02-13-new-members/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ailab-research.github.io/news/2023-02-13-new-members/</guid>
+      <description>A master student, four bachelor students and an exchange student joined the lab, welcome on board.</description>
+    </item>
+    
+    <item>
+      <title>Three Talented Individuals Join The Lab</title>
+      <link>https://ailab-research.github.io/news/2022-09-01-new-members/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ailab-research.github.io/news/2022-09-new-members/</guid>
+      <guid>https://ailab-research.github.io/news/2022-09-01-new-members/</guid>
       <description>Three master students joined the lab, welcome on board.</description>
     </item>
     
     <item>
-      <title>Paper accepted by Drones</title>
-      <link>https://ailab-research.github.io/news/2022-08-paper-accepted/</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <title>New Journal Paper on Drones</title>
+      <link>https://ailab-research.github.io/news/2022-08-17-drones/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ailab-research.github.io/news/2022-08-paper-accepted/</guid>
-      <description>The paper &amp;lsquo;A Neural Network Approach to Estimate Transient Aerodynamic Properties of a Flapping Wing System&amp;rsquo; was accepted by the journal Drones, congratulations.
+      <guid>https://ailab-research.github.io/news/2022-08-17-drones/</guid>
+      <description>Great news! The paper titled &amp;lsquo;A Neural Network Approach to Estimate Transient Aerodynamic Properties of a Flapping Wing System&amp;rsquo; by Lan et al. has been published in the journal Drones. Congratulations!
 For more information please refer to https://doi.org/10.3390/drones6080210.</description>
     </item>
     
     <item>
-      <title>Research reported by AIP</title>
-      <link>https://ailab-research.github.io/news/2022-06-aip-scilight/</link>
+      <title>Research Reported by AIP</title>
+      <link>https://ailab-research.github.io/news/2022-06-30-aip-scilight/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ailab-research.github.io/news/2022-06-aip-scilight/</guid>
+      <guid>https://ailab-research.github.io/news/2022-06-30-aip-scilight/</guid>
       <description>The research conducted in the paper &amp;lsquo;Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly&amp;rsquo; was reported by AIP Scilight, congratulations.
 For more information please refer to https://aip.scitation.org/doi/full/10.1063/10.0012500.</description>
     </item>
     
     <item>
-      <title>Paper accepted by Physics of Fluids</title>
-      <link>https://ailab-research.github.io/news/2022-06-paper-accepted/</link>
+      <title>Paper Accepted by Physics of Fluids</title>
+      <link>https://ailab-research.github.io/news/2022-06-02-paper-accepted/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ailab-research.github.io/news/2022-06-paper-accepted/</guid>
+      <guid>https://ailab-research.github.io/news/2022-06-02-paper-accepted/</guid>
       <description>The paper &amp;lsquo;Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly&amp;rsquo; was accepted by the journal Physics of Fluids, congratulations.
 For more information please refer to https://doi.org/10.1063/5.0093208.</description>
     </item>
     
     <item>
-      <title>Lab website launched</title>
-      <link>https://ailab-research.github.io/news/2022-07-website-launched/</link>
+      <title>Lab Website Launched</title>
+      <link>https://ailab-research.github.io/news/2022-06-01-website-launched/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ailab-research.github.io/news/2022-07-website-launched/</guid>
+      <guid>https://ailab-research.github.io/news/2022-06-01-website-launched/</guid>
       <description>The &amp;lsquo;Advanced Integration Laboratory (AI-Lab)&amp;rsquo; will be establish on 01 August 2022. To make more people understand our works, we launched this site for showing our research projects and results.</description>
     </item>
     

@@ -3,8 +3,80 @@ p {
 }
 
 figure {
+    /* display: flex; */
     text-align: center;
+    max-width: 100%;
+    /* min-width: 600px; */
+    overflow: auto;
+    /* object-fit: fill; */
+    /* max-height: max-content; */
 }
+
+.pi img {
+    width: 350px;
+    height: auto;
+    border-radius: 40px;
+    border: 1px solid;
+}
+
+.pi figcaption {
+    font-size: x-large;
+}
+
+.members {
+    display: inline-block;
+    width: calc(25% - 2em);
+    /* min-width: 100px; */
+    margin: 1em;
+    align-items: center;
+    text-align: center;
+    /* overflow: hidden; */
+    /* max-width: fit-content; */
+}
+
+.members img {
+    max-width: 100%;
+    border: 1px solid;
+    border-radius: 50%;
+    /* object-fit: cover; */
+}
+
+@media only screen and (max-width: 750px) {
+    .pi img {
+        width: 50%;
+    }
+    .members {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        justify-content: left;
+    }
+
+    .members img {
+        width: 30%;
+    }
+
+    .members figcaption {
+        margin-left: 50px;
+    }
+}
+
+/* img {
+    width: 100%;
+} */
+
+.recent-list {
+    /* text-indent: 0; */
+    text-align: justify;
+    list-style-position: outside !important;
+    padding-bottom: 1em;
+}
+
+.archive-list {
+    padding-left: 1em;
+}
+
 
 .box-image-text .image {
     min-height: 190px;

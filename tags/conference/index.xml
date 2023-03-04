@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference on AI-Lab</title>
+    <link>https://ailab-research.github.io/tags/conference/</link>
+    <description>Recent content in conference on AI-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ailab-research.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr Lan Invited to Give Talk at CSME Conference</title>
+      <link>https://ailab-research.github.io/news/2022-12-02-csme/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ailab-research.github.io/news/2022-12-02-csme/</guid>
+      <description>Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.</description>
+    </item>
+    
+  </channel>
+</rss>
