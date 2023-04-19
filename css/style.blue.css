@@ -1789,7 +1789,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 .bar.join-us-background {
-  background: url('../img/join_us.jpeg') center top no-repeat;
+  background: url('../img/join_us.png') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
