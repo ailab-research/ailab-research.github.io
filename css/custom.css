@@ -2,6 +2,14 @@ p {
     font-size: 1.2em;
 }
 
+.post {
+    text-align: justify;
+}
+
+#post-content {
+    text-align: justify;
+}
+
 figure {
     /* display: flex; */
     text-align: center;

@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ailab-research.github.io/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/categories/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/tags/conference/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/news/2023-06-07-amam/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/news/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/categories/research/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/tags/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/news/2023-02-24-speech/</loc>
     <lastmod>2023-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ailab-research.github.io/news/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ailab-research.github.io/categories/research/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ailab-research.github.io/tags/speech/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ailab-research.github.io/tags/</loc>
     <lastmod>2023-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/tags/news/</loc>
@@ -31,9 +37,6 @@
   </url><url>
     <loc>https://ailab-research.github.io/news/2023-02-13-new-members/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ailab-research.github.io/tags/conference/</loc>
-    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/news/2022-12-02-csme/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
