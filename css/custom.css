@@ -31,19 +31,40 @@ figure {
     font-size: x-large;
 }
 
+.members-frame {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
 .members {
-    display: inline-block;
+    /* display: inline-block; */
+    /* display: table-cell; */
+    /* display: flex; */
+
     width: calc(25% - 2em);
+    max-width: fit-content;
     /* min-width: 100px; */
+    padding: 1em;
     margin: 1em;
     align-items: center;
     text-align: center;
     /* overflow: hidden; */
-    /* max-width: fit-content; */
+
 }
 
-.members img {
+.alumni {
+    width: calc(25% - 2em);
+    max-width: fit-content;
+    padding: 1em;
+    margin: 1em;
+    align-items: center;
+    text-align: center;
+}
+
+.members img, .alumni img {
     max-width: 100%;
+    /* min-width: 150px; */
     border: 1px solid;
     border-radius: 50%;
     /* object-fit: cover; */
