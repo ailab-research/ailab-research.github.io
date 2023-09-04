@@ -6,7 +6,25 @@
     <description>Recent content in Tags on AI-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ailab-research.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ailab-research.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>https://ailab-research.github.io/tags/news/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ailab-research.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>https://ailab-research.github.io/tags/conference/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ailab-research.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Interview</title>
       <link>https://ailab-research.github.io/tags/interview/</link>
@@ -17,29 +35,11 @@
     </item>
     
     <item>
-      <title>News</title>
-      <link>https://ailab-research.github.io/tags/news/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ailab-research.github.io/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Events</title>
       <link>https://ailab-research.github.io/tags/events/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ailab-research.github.io/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>https://ailab-research.github.io/tags/conference/</link>
-      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ailab-research.github.io/tags/conference/</guid>
       <description></description>
     </item>
     
