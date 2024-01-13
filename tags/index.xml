@@ -6,20 +6,27 @@
     <description>Recent content in Tags on AI-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conference</title>
-      <link>https://ailab-research.github.io/tags/conference/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/tags/conference/</guid>
+      <title>Journal</title>
+      <link>https://ailab-research.github.io/tags/journal/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/journal/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
       <link>https://ailab-research.github.io/tags/news/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>https://ailab-research.github.io/tags/conference/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/conference/</guid>
       <description></description>
     </item>
     <item>
@@ -41,13 +48,6 @@
       <link>https://ailab-research.github.io/tags/speech/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/tags/speech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Journal</title>
-      <link>https://ailab-research.github.io/tags/journal/</link>
-      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/tags/journal/</guid>
       <description></description>
     </item>
   </channel>

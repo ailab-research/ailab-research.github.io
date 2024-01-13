@@ -6,8 +6,23 @@
     <description>Recent content on AI-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Paper Published in &#39;Ocean Engineering&#39;: A Leap Forward</title>
+      <link>https://ailab-research.github.io/news/2024-01-12-journal/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2024-01-12-journal/</guid>
+      <description>Heartfelt congratulations to Dr Lai&amp;rsquo;s team and Dr Lan on their seminal publication in &amp;lsquo;Ocean Engineering&amp;rsquo;. Their paper, &amp;lsquo;Strouhal number impact on propulsion efficiency in fully-active oscillating foils: Unpacking frequency, amplitude, and velocity relationships&amp;rsquo;, is not just a leap forward in marine technology but also holds immense potential for transforming oscillating foils technology across diverse realms, from the depths of the ocean to the intricacies of flapping flight.
+For more information please refer to https://doi.</description>
+    </item>
+    <item>
+      <title>Six Talented Individuals Join The Lab</title>
+      <link>https://ailab-research.github.io/news/2023-12-28-members/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2023-12-28-members/</guid>
+      <description>Six bachelor&amp;rsquo;s students have joined the lab. Welcome aboard!</description>
+    </item>
     <item>
       <title>Preliminary Odour Tracking Study Presented at CSME Conference</title>
       <link>https://ailab-research.github.io/news/2023-12-01-csme/</link>
@@ -24,9 +39,9 @@
     </item>
     <item>
       <title>Four Talented Individuals Join The Lab</title>
-      <link>https://ailab-research.github.io/news/2023-09-01-new-members/</link>
+      <link>https://ailab-research.github.io/news/2023-09-01-members/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-09-01-new-members/</guid>
+      <guid>https://ailab-research.github.io/news/2023-09-01-members/</guid>
       <description>Four postgraduate students have joined the lab. Welcome aboard!</description>
     </item>
     <item>
@@ -66,9 +81,9 @@
     </item>
     <item>
       <title>Six Talented Individuals Join The Lab</title>
-      <link>https://ailab-research.github.io/news/2023-02-13-new-members/</link>
+      <link>https://ailab-research.github.io/news/2023-02-13-members/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-02-13-new-members/</guid>
+      <guid>https://ailab-research.github.io/news/2023-02-13-members/</guid>
       <description>We have welcomed a master&amp;rsquo;s student, four bachelor&amp;rsquo;s students, and an exchange student to the lab. Welcome aboard!</description>
     </item>
     <item>
@@ -80,9 +95,9 @@
     </item>
     <item>
       <title>Three Talented Individuals Join The Lab</title>
-      <link>https://ailab-research.github.io/news/2022-09-01-new-members/</link>
+      <link>https://ailab-research.github.io/news/2022-09-01-members/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2022-09-01-new-members/</guid>
+      <guid>https://ailab-research.github.io/news/2022-09-01-members/</guid>
       <description>Three postgraduate students have joined the lab. Welcome aboard!</description>
     </item>
     <item>
@@ -146,9 +161,9 @@ International Interdisciplinary Programme, University of Cambridge (2018)</descr
       <link>https://ailab-research.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/publications/</guid>
-      <description>Articles Lan, B.*, Lin, Y.-J., Lai, Y.-H., Tang, C.-H., &amp;amp; Yang, J.-T.* (2022). A Neural Network Approach to Estimate Transient Aerodynamic Properties of a Flapping Wing System. Drones, 6(8), 210. https://doi.org/10.3390/drones6080210
-Lai, Y.-H., Chang, S.-K., Lan, B., Hsu, K.-L., &amp;amp; Yang, J.-T.* (2022). Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly. Physics of Fluids, 34(6), 061909. https://doi.org/10.1063/5.0093208
-Lan, B., Kanzaki, R., &amp;amp; Ando, N.</description>
+      <description>Articles Liou, Y.-J., Lan, B., Chiang, C.-Y., &amp;amp; Lai, Y.-H.* (2024). Strouhal number impact on propulsion efficiency in fully-active oscillating foils: Unpacking frequency, amplitude, and velocity relationships. Ocean Engineering, 293, 116686. https://doi.org/10.1016/j.oceaneng.2024.116686
+Lan, B.*, Lin, Y.-J., Lai, Y.-H., Tang, C.-H., &amp;amp; Yang, J.-T.* (2022). A Neural Network Approach to Estimate Transient Aerodynamic Properties of a Flapping Wing System. Drones, 6(8), 210. https://doi.org/10.3390/drones6080210
+Lai, Y.-H., Chang, S.-K., Lan, B., Hsu, K.-L., &amp;amp; Yang, J.</description>
     </item>
     <item>
       <title>Research</title>
