@@ -13,11 +13,18 @@ p {
 figure {
     /* display: flex; */
     text-align: center;
+    width: 100%;
     max-width: 100%;
     /* min-width: 600px; */
     overflow: auto;
     /* object-fit: fill; */
     /* max-height: max-content; */
+}
+
+figure img {
+    width: 100%;
+    max-width: fit-content;
+    height: auto;
 }
 
 .pi img {
@@ -54,8 +61,9 @@ figure {
 }
 
 .alumni {
-    width: calc(25% - 2em);
-    max-width: fit-content;
+    width: calc(16.66% - 2em);
+    max-width: 200px;
+    min-width: 100px;
     padding: 1em;
     margin: 1em;
     align-items: center;
@@ -88,6 +96,15 @@ figure {
 
     .members figcaption {
         margin-left: 50px;
+    }
+
+    /* .alumni img {
+        min-width: 5%;
+    } */
+    
+    .alumni figcaption {
+        /* font-size: 8pt; */
+        text-align: center;
     }
 }
 
