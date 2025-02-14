@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ailab-research.github.io/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/categories/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/tags/news/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/news/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/categories/news/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/news/2025-01-15-members/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailab-research.github.io/tags/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/categories/events/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ailab-research.github.io/tags/news/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ailab-research.github.io/news/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ailab-research.github.io/news/2024-12-09-startup/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ailab-research.github.io/tags/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/tags/conference/</loc>
@@ -36,9 +42,6 @@
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/tags/journal/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ailab-research.github.io/categories/news/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailab-research.github.io/news/2024-09-01-members/</loc>
