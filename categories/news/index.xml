@@ -6,8 +6,22 @@
     <description>Recent content in News on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr Lan Awarded Outstanding Reviewer Award</title>
+      <link>https://ailab-research.github.io/news/2025-03-04-bb/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-03-04-bb/</guid>
+      <description>Dr Lan has been honoured with the Outstanding Reviewer Award 2024, a prestigious accolade recognising his significant contributions to academic research. Congratulations!</description>
+    </item>
+    <item>
+      <title>Published in Physics of Fluids: Biomimetic Propulsion Study</title>
+      <link>https://ailab-research.github.io/news/2025-03-04-journal/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-03-04-journal/</guid>
+      <description>Dr Lan, Dr Lai and their team have published a study in Physics of Fluids exploring how stingray-like asymmetric flapping enhances underwater propulsion. Using a NACA 0012 hydrofoil at a Reynolds number of 10,000 and NSGA-II optimisation, they identified six optimal motion patterns with brief downstrokes. Their findings reveal how harmonic tuning influences vortex dynamics, closely resembling natural swimming. This research provides key insights for designing efficient biomimetic aquatic robots, advancing underwater propulsion technology.</description>
+    </item>
     <item>
       <title>Six Talented Individuals Join The Lab</title>
       <link>https://ailab-research.github.io/news/2025-01-15-members/</link>
