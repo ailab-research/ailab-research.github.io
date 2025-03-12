@@ -6,8 +6,15 @@
     <description>Recent content in News on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Innovative Approach to Flapping Flight Analysis Published in Physica D</title>
+      <link>https://ailab-research.github.io/news/2025-03-12-journal/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-03-12-journal/</guid>
+      <description>Dr Lan and Dr Lai&amp;rsquo;s latest study, &amp;lsquo;Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions&amp;rsquo;, has been published in Physica D: Nonlinear Phenomena. The research introduces a novel framework combining signal decomposition and decision tree algorithms, reducing computational time by up to 75% while maintaining high accuracy. Validated with damselfly data, this approach accelerates flapping flight analysis and supports the efficient design of micro air vehicles (MAVs), offering a scalable solution for future aerodynamic research.</description>
+    </item>
     <item>
       <title>Innovative Insights Featured on AIP Publishing Showcase</title>
       <link>https://ailab-research.github.io/news/2025-03-05-kudos/</link>
