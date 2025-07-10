@@ -6,8 +6,15 @@
     <description>Recent content on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nature-Inspired Designs Win Awards in Bionic Design Competition</title>
+      <link>https://ailab-research.github.io/news/2025-07-04-biomimicry/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-07-04-biomimicry/</guid>
+      <description>&lt;p&gt;Under the guidance of Dr Lan, two student teams from the lab took part in the 2025 Bionic Design Competition (仿生設計競賽), an event showcasing nature-inspired innovation for sustainability. Among 78 entries, both teams received awards for their nature-inspired designs: one received a Merit Award for their bio-inspired stingray underwater vehicle, while the other was awarded Honourable Mention for a butterfly-inspired micro air vehicle. The competition, supported by Biomimicry Taiwan, promotes sustainable innovation rooted in natural principles, addressing global challenges from disaster resilience to environmental health.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Innovative Approach to Flapping Flight Analysis Published in Physica D</title>
       <link>https://ailab-research.github.io/news/2025-03-12-journal/</link>
@@ -230,7 +237,7 @@
       <link>https://ailab-research.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/publications/</guid>
-      <description>&lt;h2 id=&#34;articles&#34;&gt;Articles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Luo, S.-T. (in press). Flow-Induced Variations in Odour Boundary Formation. &lt;em&gt;Physica D: Nonlinear Phenomena&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Lai, Y.-H. (2025). Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions. &lt;em&gt;Physica D: Nonlinear Phenomena, 476&lt;/em&gt;, 134618. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134618&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134618&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;*, Lai, Y.-H, &amp;amp; Li, M.-R. (2025). Balancing Thrust and Energy Efficiency: Optimised Asymmetric Flapping Inspired by Batoid Locomotion. &lt;em&gt;Physics of Fluids, 37&lt;/em&gt;(3), 031902. &lt;a href=&#34;https://doi.org/10.1063/5.0253805&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1063/5.0253805&lt;/a&gt;. &lt;strong&gt;[Featured in AIP Publishing Showcase on Kudos]&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;research-articles&#34;&gt;Research Articles&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Luo, S.-T. (in press). Flow-Induced Variations in Odour Boundary Formation. &lt;em&gt;Physica D: Nonlinear Phenomena&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Lai, Y.-H. (2025). Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions. &lt;em&gt;Physica D: Nonlinear Phenomena, 476&lt;/em&gt;, 134618. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134618&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134618&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;*, Lai, Y.-H, &amp;amp; Li, M.-R. (2025). Balancing Thrust and Energy Efficiency: Optimised Asymmetric Flapping Inspired by Batoid Locomotion. &lt;em&gt;Physics of Fluids, 37&lt;/em&gt;(3), 031902. &lt;a href=&#34;https://doi.org/10.1063/5.0253805&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1063/5.0253805&lt;/a&gt;. &lt;strong&gt;[Featured in AIP Publishing Showcase on Kudos]&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
