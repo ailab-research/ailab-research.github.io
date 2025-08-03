@@ -6,8 +6,15 @@
     <description>Recent content on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Study on Odour Boundaries Published in Physica D</title>
+      <link>https://ailab-research.github.io/news/2025-07-18-journal/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-07-18-journal/</guid>
+      <description>&lt;p&gt;Dr Lan’s latest study, Flow-induced variations in odour boundary formation, explores how odours spread through moving air, an essential process in animal navigation and robotic sensing. Through flow simulations, the research introduces the concept of an ‘odour boundary’ and analyses how it responds to changes in flow speed and diffusion conditions. The team found that while diffusion has limited effect, higher airflow speeds narrow and stabilise the odour boundary. These findings deepen our understanding of biological tracking behaviours and may aid the design of robots capable of locating odour sources in complex environments.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nature-Inspired Designs Win Awards in Bionic Design Competition</title>
       <link>https://ailab-research.github.io/news/2025-07-04-biomimicry/</link>
@@ -237,7 +244,7 @@
       <link>https://ailab-research.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/publications/</guid>
-      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;research-articles&#34;&gt;Research Articles&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Luo, S.-T. (in press). Flow-Induced Variations in Odour Boundary Formation. &lt;em&gt;Physica D: Nonlinear Phenomena&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Lai, Y.-H. (2025). Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions. &lt;em&gt;Physica D: Nonlinear Phenomena, 476&lt;/em&gt;, 134618. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134618&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134618&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;*, Lai, Y.-H, &amp;amp; Li, M.-R. (2025). Balancing Thrust and Energy Efficiency: Optimised Asymmetric Flapping Inspired by Batoid Locomotion. &lt;em&gt;Physics of Fluids, 37&lt;/em&gt;(3), 031902. &lt;a href=&#34;https://doi.org/10.1063/5.0253805&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1063/5.0253805&lt;/a&gt;. &lt;strong&gt;[Featured in AIP Publishing Showcase on Kudos]&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;research-articles&#34;&gt;Research Articles&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;*, &amp;amp; Luo, S.-T. (2025). Flow-induced variations in odour boundary formation. &lt;em&gt;Physica D: Nonlinear Phenomena, 481&lt;/em&gt;, 134827. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134827&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134827&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Lai, Y.-H. (2025). Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions. &lt;em&gt;Physica D: Nonlinear Phenomena, 476&lt;/em&gt;, 134618. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134618&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134618&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;*, Lai, Y.-H, &amp;amp; Li, M.-R. (2025). Balancing Thrust and Energy Efficiency: Optimised Asymmetric Flapping Inspired by Batoid Locomotion. &lt;em&gt;Physics of Fluids, 37&lt;/em&gt;(3), 031902. &lt;a href=&#34;https://doi.org/10.1063/5.0253805&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1063/5.0253805&lt;/a&gt;. &lt;strong&gt;[Featured in AIP Publishing Showcase on Kudos]&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>

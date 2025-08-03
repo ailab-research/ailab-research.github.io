@@ -6,8 +6,15 @@
     <description>Recent content in News on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Study on Odour Boundaries Published in Physica D</title>
+      <link>https://ailab-research.github.io/news/2025-07-18-journal/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-07-18-journal/</guid>
+      <description>&lt;p&gt;Dr Lan’s latest study, Flow-induced variations in odour boundary formation, explores how odours spread through moving air, an essential process in animal navigation and robotic sensing. Through flow simulations, the research introduces the concept of an ‘odour boundary’ and analyses how it responds to changes in flow speed and diffusion conditions. The team found that while diffusion has limited effect, higher airflow speeds narrow and stabilise the odour boundary. These findings deepen our understanding of biological tracking behaviours and may aid the design of robots capable of locating odour sources in complex environments.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nature-Inspired Designs Win Awards in Bionic Design Competition</title>
       <link>https://ailab-research.github.io/news/2025-07-04-biomimicry/</link>
