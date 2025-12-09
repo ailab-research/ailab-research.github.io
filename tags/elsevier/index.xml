@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elsevier on AI-Lab</title>
+    <link>https://ailab-research.github.io/tags/elsevier/</link>
+    <description>Recent content in Elsevier on AI-Lab</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/elsevier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Study on Odour Boundaries Published in Physica D</title>
+      <link>https://ailab-research.github.io/news/2025-07-18-journal/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-07-18-journal/</guid>
+      <description>&lt;p&gt;Dr Lan&amp;rsquo;s latest study, Flow-induced variations in odour boundary formation, explores how odours spread through moving air, an essential process in animal navigation and robotic sensing. Through flow simulations, the research introduces the concept of an &amp;lsquo;odour boundary&amp;rsquo; and analyses how it responds to changes in flow speed and diffusion conditions. The team found that while diffusion has limited effect, higher airflow speeds narrow and stabilise the odour boundary. These findings deepen our understanding of biological tracking behaviours and may aid the design of robots capable of locating odour sources in complex environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Innovative Approach to Flapping Flight Analysis Published in Physica D</title>
+      <link>https://ailab-research.github.io/news/2025-03-12-journal/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-03-12-journal/</guid>
+      <description>&lt;p&gt;Dr Lan and Dr Lai&amp;rsquo;s latest study, &amp;lsquo;Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions&amp;rsquo;, has been published in Physica D: Nonlinear Phenomena. The research introduces a novel framework combining signal decomposition and decision tree algorithms, reducing computational time by up to 75% while maintaining high accuracy. Validated with damselfly data, this approach accelerates flapping flight analysis and supports the efficient design of micro air vehicles (MAVs), offering a scalable solution for future aerodynamic research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research Paper Published in &#39;Ocean Engineering&#39;: A Leap Forward</title>
+      <link>https://ailab-research.github.io/news/2024-01-12-journal/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2024-01-12-journal/</guid>
+      <description>&lt;p&gt;Heartfelt congratulations to Dr Lai&amp;rsquo;s team and Dr Lan on their seminal publication in &amp;lsquo;Ocean Engineering&amp;rsquo;. Their paper, &amp;lsquo;Strouhal number impact on propulsion efficiency in fully-active oscillating foils: Unpacking frequency, amplitude, and velocity relationships&amp;rsquo;, is not just a leap forward in marine technology but also holds immense potential for transforming oscillating foils technology across diverse realms, from the depths of the ocean to the intricacies of flapping flight.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1016/j.oceaneng.2024.116686&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.oceaneng.2024.116686&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

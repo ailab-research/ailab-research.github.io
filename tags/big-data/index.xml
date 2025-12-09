@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on AI-Lab</title>
+    <link>https://ailab-research.github.io/tags/big-data/</link>
+    <description>Recent content in Big Data on AI-Lab</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate Team Wins Merit Award in IMBD</title>
+      <link>https://ailab-research.github.io/news/2025-11-22-imbd/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-11-22-imbd/</guid>
+      <description>&lt;p&gt;A graduate student team supervised by Dr Lan, led by Yen-Cheng Chang alongside two fellow members, has received a Merit Award (優等獎) in the National Intelligent Manufacturing Big Data Analytics Competition (IMBD, 全國智慧製造大數據分析競賽). Their project showcased effective use of artificial intelligence and big data techniques, demonstrating strong analytical capability and innovative problem-solving in data-driven applications.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/11_imbd.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>

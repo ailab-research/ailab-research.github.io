@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on AI-Lab</title>
-    <link>https://ailab-research.github.io/tags/events/</link>
+    <link>http://localhost:1313/tags/events/</link>
     <description>Recent content in Events on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailab-research.github.io/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr Lan Invited as Adjudicator for the 9th NCKU Mechanical Project Exhibition</title>
-      <link>https://ailab-research.github.io/news/2023-06-17-ncku-exhibition/</link>
+      <link>http://localhost:1313/news/2023-06-17-ncku-exhibition/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-06-17-ncku-exhibition/</guid>
-      <description>&lt;p&gt;The Mechanical Project Exhibition returned on June 17th at National Cheng Kung University (NCKU). 39 student teams participated, showcasing their project-based learning and integrating theoretical knowledge from various mechanical engineering fields. The event highlighted creativity and collaboration, inspiring future engineers.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/06_ncku_exhibition.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2023-06-17-ncku-exhibition/</guid>
+      <description>&lt;p&gt;The Mechanical Project Exhibition returned on June 17th at National Cheng Kung University (NCKU). 39 student teams participated, showcasing their project-based learning and integrating theoretical knowledge from various mechanical engineering fields. The event highlighted creativity and collaboration, inspiring future engineers.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/06_ncku_exhibition.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

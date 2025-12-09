@@ -23,17 +23,171 @@
       <description></description>
     </item>
     <item>
+      <title>CSME</title>
+      <link>https://ailab-research.github.io/tags/csme/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/csme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moth</title>
+      <link>https://ailab-research.github.io/tags/moth/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/moth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Big Data</title>
+      <link>https://ailab-research.github.io/tags/big-data/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Capstone</title>
+      <link>https://ailab-research.github.io/tags/capstone/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/capstone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IMBD</title>
+      <link>https://ailab-research.github.io/tags/imbd/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/imbd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ray</title>
+      <link>https://ailab-research.github.io/tags/ray/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/ray/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AASRC</title>
+      <link>https://ailab-research.github.io/tags/aasrc/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/aasrc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dragonfly</title>
+      <link>https://ailab-research.github.io/tags/dragonfly/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/dragonfly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robot</title>
+      <link>https://ailab-research.github.io/tags/robot/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/robot/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>News</title>
       <link>https://ailab-research.github.io/tags/news/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/tags/news/</guid>
       <description></description>
     </item>
     <item>
-      <title>Journal</title>
-      <link>https://ailab-research.github.io/tags/journal/</link>
+      <title>Elsevier</title>
+      <link>https://ailab-research.github.io/tags/elsevier/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/tags/journal/</guid>
+      <guid>https://ailab-research.github.io/tags/elsevier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Odour</title>
+      <link>https://ailab-research.github.io/tags/odour/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/odour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physica D</title>
+      <link>https://ailab-research.github.io/tags/physica-d/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/physica-d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Butterfly</title>
+      <link>https://ailab-research.github.io/tags/butterfly/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/butterfly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://ailab-research.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AIP</title>
+      <link>https://ailab-research.github.io/tags/aip/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/aip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kudos</title>
+      <link>https://ailab-research.github.io/tags/kudos/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/kudos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics of Fluids</title>
+      <link>https://ailab-research.github.io/tags/physics-of-fluids/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/physics-of-fluids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bioinspiration and Biomimetics</title>
+      <link>https://ailab-research.github.io/tags/bioinspiration-and-biomimetics/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/bioinspiration-and-biomimetics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOP</title>
+      <link>https://ailab-research.github.io/tags/iop/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/iop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ICE</title>
+      <link>https://ailab-research.github.io/tags/ice/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/ice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ocean Engineering</title>
+      <link>https://ailab-research.github.io/tags/ocean-engineering/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/ocean-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ARIS</title>
+      <link>https://ailab-research.github.io/tags/aris/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/aris/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speech</title>
+      <link>https://ailab-research.github.io/tags/speech/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/speech/</guid>
       <description></description>
     </item>
     <item>
@@ -44,17 +198,38 @@
       <description></description>
     </item>
     <item>
-      <title>Events</title>
-      <link>https://ailab-research.github.io/tags/events/</link>
-      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/tags/events/</guid>
+      <title>AMAM</title>
+      <link>https://ailab-research.github.io/tags/amam/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/amam/</guid>
       <description></description>
     </item>
     <item>
-      <title>Speech</title>
-      <link>https://ailab-research.github.io/tags/speech/</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/tags/speech/</guid>
+      <title>Drones</title>
+      <link>https://ailab-research.github.io/tags/drones/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/drones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MDPI</title>
+      <link>https://ailab-research.github.io/tags/mdpi/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/mdpi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AIP Scilight</title>
+      <link>https://ailab-research.github.io/tags/aip-scilight/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/aip-scilight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Damselfly</title>
+      <link>https://ailab-research.github.io/tags/damselfly/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/tags/damselfly/</guid>
       <description></description>
     </item>
   </channel>

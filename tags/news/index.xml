@@ -6,70 +6,14 @@
     <description>Recent content in News on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Graduate Team Wins Merit Award in IMBD</title>
-      <link>https://ailab-research.github.io/news/2025-11-22-imbd/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-11-22-imbd/</guid>
-      <description>&lt;p&gt;A graduate student team supervised by Dr Lan, led by Yen-Cheng Chang alongside two fellow members, has received a Merit Award (優等獎) in the National Intelligent Manufacturing Big Data Analytics Competition (IMBD, 全國智慧製造大數據分析競賽). Their project showcased effective use of artificial intelligence and big data techniques, demonstrating strong analytical capability and innovative problem-solving in data-driven applications.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/11_imbd.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Undergraduate Team Receives Honourable Mention for Bio-Inspired Ray Project</title>
-      <link>https://ailab-research.github.io/news/2025-11-22-capstone/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-11-22-capstone/</guid>
-      <description>&lt;p&gt;Three undergraduate students, supervised by Dr Lan, have received an honourable mention (佳作) in the Capstone Project (機械設計與製作專題) competition. Their work focused on a bio-inspired ray system, investigating the propulsion principles of ray-like motion and presenting a functional design that highlights the potential of biomimetic concepts in underwater robotic development.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/11_capstone.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Two Teams Win Maker Potential Award at the 2025 Makerthon</title>
-      <link>https://ailab-research.github.io/news/2025-09-13-makerthon/</link>
-      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-09-13-makerthon/</guid>
-      <description>&lt;p&gt;Two student teams, supervised by Dr Lan, won the Maker Potential Award (創客潜力獎) at the 2025 Makerthon – Technology Empowerment × Future-Making Competition (創客松-科技賦能X自造未來競賽). One team developed an innovative aerial drone, while the other created a submersible vehicle inspired by marine engineering, both demonstrating the creative spirit and technical skills celebrated by the event.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/09_makerthon.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>1st Place at the 2025 Ocean Challenge</title>
-      <link>https://ailab-research.github.io/news/2025-09-02-ocean/</link>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-09-02-ocean/</guid>
-      <description>&lt;p&gt;Three undergraduates, supervised by Dr Lan, won 1st place at the 2025 Ocean Challenge (臺灣海洋國際青年論壇) with a manta ray-inspired underwater vehicle.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/09_ocean.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
     <item>
       <title>Six Talented Individuals Join The Lab</title>
       <link>https://ailab-research.github.io/news/2025-09-01-members/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/news/2025-09-01-members/</guid>
       <description>&lt;p&gt;Six postgraduate students have joined the lab. Welcome aboard!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New Study on Odour Boundaries Published in Physica D</title>
-      <link>https://ailab-research.github.io/news/2025-07-18-journal/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-07-18-journal/</guid>
-      <description>&lt;p&gt;Dr Lan’s latest study, Flow-induced variations in odour boundary formation, explores how odours spread through moving air, an essential process in animal navigation and robotic sensing. Through flow simulations, the research introduces the concept of an ‘odour boundary’ and analyses how it responds to changes in flow speed and diffusion conditions. The team found that while diffusion has limited effect, higher airflow speeds narrow and stabilise the odour boundary. These findings deepen our understanding of biological tracking behaviours and may aid the design of robots capable of locating odour sources in complex environments.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nature-Inspired Designs Win Awards in Bionic Design Competition</title>
-      <link>https://ailab-research.github.io/news/2025-07-04-biomimicry/</link>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-07-04-biomimicry/</guid>
-      <description>&lt;p&gt;Under the guidance of Dr Lan, two student teams from the lab took part in the 2025 Bionic Design Competition (仿生設計競賽), an event showcasing nature-inspired innovation for sustainability. Among 78 entries, both teams received awards for their nature-inspired designs: one received a Merit Award for their bio-inspired stingray underwater vehicle, while the other was awarded Honourable Mention for a butterfly-inspired micro air vehicle. The competition, supported by Biomimicry Taiwan, promotes sustainable innovation rooted in natural principles, addressing global challenges from disaster resilience to environmental health.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Innovative Approach to Flapping Flight Analysis Published in Physica D</title>
-      <link>https://ailab-research.github.io/news/2025-03-12-journal/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-03-12-journal/</guid>
-      <description>&lt;p&gt;Dr Lan and Dr Lai&amp;rsquo;s latest study, &amp;lsquo;Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions&amp;rsquo;, has been published in Physica D: Nonlinear Phenomena. The research introduces a novel framework combining signal decomposition and decision tree algorithms, reducing computational time by up to 75% while maintaining high accuracy. Validated with damselfly data, this approach accelerates flapping flight analysis and supports the efficient design of micro air vehicles (MAVs), offering a scalable solution for future aerodynamic research.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Innovative Insights Featured on AIP Publishing Showcase</title>
-      <link>https://ailab-research.github.io/news/2025-03-05-kudos/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-03-05-kudos/</guid>
-      <description>&lt;p&gt;Dr Lan and his research team have been recognised by the American Institute of Physics (AIP), with their latest study selected as a feature article on Kudos&amp;rsquo; Showcase platform. The research, titled &amp;lsquo;Balancing Thrust and Energy Efficiency: Optimised Asymmetric Flapping Inspired by Batoid Locomotion&amp;rsquo;, explores how the unique swimming motion of stingrays can inspire more efficient designs for underwater vehicles.&lt;/p&gt;&#xA;&lt;p&gt;By using advanced computer simulations, the team discovered that shorter, quicker downstrokes—similar to how stingrays naturally move—enhance thrust while reducing energy consumption. These findings could lead to the development of underwater vehicles and robots that move more efficiently, with potential applications in marine exploration and environmental monitoring.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr Lan Awarded Outstanding Reviewer Award</title>
@@ -79,32 +23,11 @@
       <description>&lt;p&gt;Dr Lan has been honoured with the Outstanding Reviewer Award 2024, a prestigious accolade recognising his significant contributions to academic research. Congratulations!&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/03_bb.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
-      <title>Published in Physics of Fluids: Biomimetic Propulsion Study</title>
-      <link>https://ailab-research.github.io/news/2025-03-04-journal/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-03-04-journal/</guid>
-      <description>&lt;p&gt;Dr Lan, Dr Lai and their team have published a study in Physics of Fluids exploring how stingray-like asymmetric flapping enhances underwater propulsion. Using a NACA 0012 hydrofoil at a Reynolds number of 10,000 and NSGA-II optimisation, they identified six optimal motion patterns with brief downstrokes. Their findings reveal how harmonic tuning influences vortex dynamics, closely resembling natural swimming. This research provides key insights for designing efficient biomimetic aquatic robots, advancing underwater propulsion technology.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Six Talented Individuals Join The Lab</title>
       <link>https://ailab-research.github.io/news/2025-01-15-members/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/news/2025-01-15-members/</guid>
       <description>&lt;p&gt;Six bachelor&amp;rsquo;s students have joined the lab. Welcome aboard!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Students Shine at the 2024 Innovation Arena</title>
-      <link>https://ailab-research.github.io/news/2024-12-09-startup/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2024-12-09-startup/</guid>
-      <description>&lt;p&gt;Under the guidance of Dr Lan, a team of four students participated in the 2024 Innovation Arena (興創競技場) and secured the prestigious Infinite Potential Award in the Creative Concept category. The competition, organised by the University&amp;rsquo;s Centre for Industry-Academia Collaboration, aims to inspire students and staff to transform their academic expertise and innovative ideas into entrepreneurial solutions tailored to industry needs. By bridging innovation and practical application, the initiative fosters global perspectives and highlights the tangible value of academic research in the real world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Breakthrough in Manta-like Swimming Efficiency</title>
-      <link>https://ailab-research.github.io/news/2024-10-01-journal/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2024-10-01-journal/</guid>
-      <description>&lt;p&gt;A big congratulations to Dr Lai&amp;rsquo;s team and Dr Lan on the successful publication of their groundbreaking research in Physics of Fluids! Their study explores how manta-like swimming dynamics, specifically asymmetric motion parameters, can greatly enhance the efficiency of underwater unmanned vehicles. By investigating the effects of varying angles of attack and stroke duration, the research provides key insights into maximising thrust and propulsion efficiency. This work not only advances our understanding of aquatic biomechanics but also paves the way for innovative designs in biomimetic underwater technologies. Well done to the team on this impressive achievement!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Four Talented Individuals Join The Lab</title>
@@ -128,13 +51,6 @@
       <description>&lt;p&gt;Dr Lan has been featured in Issue 75 of the Newsletter of the Programe in Aeronautics &amp;amp; Astronautics and Thermal Science &amp;amp; Fluid Dynamics, where his work at the AI-Lab is highlighted. This publication showcases the latest research and developments within the field, with a particular focus on Dr Lan&amp;rsquo;s contributions to advancing knowledge in aeronautics and machine learning.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;a href=&#34;http://www.etop.org.tw/dsp/E71.php?c=dsp12220&amp;amp;p=5354&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://ailab-research.github.io/images/24/03_newsletter.jpeg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
-      <title>Research Paper Published in &#39;Ocean Engineering&#39;: A Leap Forward</title>
-      <link>https://ailab-research.github.io/news/2024-01-12-journal/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2024-01-12-journal/</guid>
-      <description>&lt;p&gt;Heartfelt congratulations to Dr Lai&amp;rsquo;s team and Dr Lan on their seminal publication in &amp;lsquo;Ocean Engineering&amp;rsquo;. Their paper, &amp;lsquo;Strouhal number impact on propulsion efficiency in fully-active oscillating foils: Unpacking frequency, amplitude, and velocity relationships&amp;rsquo;, is not just a leap forward in marine technology but also holds immense potential for transforming oscillating foils technology across diverse realms, from the depths of the ocean to the intricacies of flapping flight.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1016/j.oceaneng.2024.116686&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.oceaneng.2024.116686&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Six Talented Individuals Join The Lab</title>
       <link>https://ailab-research.github.io/news/2023-12-28-members/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
@@ -149,13 +65,6 @@
       <description>&lt;p&gt;Four postgraduate students have joined the lab. Welcome aboard!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dr Lan Discusses Interdisciplinary Education in Ministry of Education Interview</title>
-      <link>https://ailab-research.github.io/news/2023-07-25-edu-interview/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-07-25-edu-interview/</guid>
-      <description>&lt;p&gt;In a recent interview with the Ministry of Education, Dr Lan highlighted the innovative cross-disciplinary research at the Enable Center, founded by Professor Charles W. Tu. The centre gained attention last year when Dr Lan collaborated with Dr Ching-Wen Tan on an unprecedented project that merged the fields of entomology and mechanical engineering. Intrigued by the novel approach, Professor Tu asked Dr Lan to join him for this exclusive interview.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Six Talented Individuals Join The Lab</title>
       <link>https://ailab-research.github.io/news/2023-02-13-members/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
@@ -168,27 +77,6 @@
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/news/2022-09-01-members/</guid>
       <description>&lt;p&gt;Three postgraduate students have joined the lab. Welcome aboard!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New Journal Paper on Drones</title>
-      <link>https://ailab-research.github.io/news/2022-08-17-drones/</link>
-      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2022-08-17-drones/</guid>
-      <description>&lt;p&gt;Great news! The paper titled &amp;lsquo;A Neural Network Approach to Estimate Transient Aerodynamic Properties of a Flapping Wing System&amp;rsquo; by Lan et al. has been published in the journal Drones. Congratulations!&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.3390/drones6080210&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.3390/drones6080210&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Research Reported by AIP</title>
-      <link>https://ailab-research.github.io/news/2022-06-30-aip-scilight/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2022-06-30-aip-scilight/</guid>
-      <description>&lt;p&gt;The research conducted in the paper &amp;lsquo;Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly&amp;rsquo; was reported by AIP Scilight, congratulations.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://aip.scitation.org/doi/full/10.1063/10.0012500&#34; target=&#34;_blank&#34;&gt;https://aip.scitation.org/doi/full/10.1063/10.0012500&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paper Accepted by Physics of Fluids</title>
-      <link>https://ailab-research.github.io/news/2022-06-02-paper-accepted/</link>
-      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2022-06-02-paper-accepted/</guid>
-      <description>&lt;p&gt;The paper &amp;lsquo;Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly&amp;rsquo; was accepted by the journal Physics of Fluids, congratulations.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1063/5.0093208&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1063/5.0093208&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lab Website Launched</title>

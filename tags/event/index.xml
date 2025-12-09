@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event on AI-Lab</title>
+    <link>http://localhost:1313/tags/event/</link>
+    <description>Recent content in Event on AI-Lab</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr Lan to Give Keynote Speech at National Defense University</title>
+      <link>http://localhost:1313/news/2023-02-24-speech/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2023-02-24-speech/</guid>
+      <description>&lt;p&gt;Dr Lan delivers an inspiring speech on the application of odour sensing at National Defense University.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/02_speech.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>

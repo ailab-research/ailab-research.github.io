@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Butterfly on AI-Lab</title>
+    <link>https://ailab-research.github.io/tags/butterfly/</link>
+    <description>Recent content in Butterfly on AI-Lab</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/butterfly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nature-Inspired Designs Win Awards in Bionic Design Competition</title>
+      <link>https://ailab-research.github.io/news/2025-07-04-biomimicry/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025-07-04-biomimicry/</guid>
+      <description>&lt;p&gt;Under the guidance of Dr Lan, two student teams from the lab took part in the 2025 Bionic Design Competition (仿生設計競賽), an event showcasing nature-inspired innovation for sustainability. Among 78 entries, both teams received awards for their nature-inspired designs: one received a Merit Award for their bio-inspired stingray underwater vehicle, while the other was awarded Honourable Mention for a butterfly-inspired micro air vehicle. The competition, supported by Biomimicry Taiwan, promotes sustainable innovation rooted in natural principles, addressing global challenges from disaster resilience to environmental health.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Journal Paper on Drones</title>
+      <link>https://ailab-research.github.io/news/2022-08-17-drones/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2022-08-17-drones/</guid>
+      <description>&lt;p&gt;Great news! The paper titled &amp;lsquo;A Neural Network Approach to Estimate Transient Aerodynamic Properties of a Flapping Wing System&amp;rsquo; by Lan et al. has been published in the journal Drones. Congratulations!&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.3390/drones6080210&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.3390/drones6080210&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
