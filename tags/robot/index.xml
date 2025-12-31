@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robot on AI-Lab</title>
-    <link>https://ailab-research.github.io/tags/robot/</link>
+    <link>http://localhost:1313/tags/robot/</link>
     <description>Recent content in Robot on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailab-research.github.io/tags/robot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/robot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ming-Han Wu Takes Third Place in AASRC Best Paper Award</title>
-      <link>https://ailab-research.github.io/news/2025-11-15-aasrc/</link>
+      <link>http://localhost:1313/news/2025-11-15-aasrc/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-11-15-aasrc/</guid>
-      <description>&lt;p&gt;Ming-Han Wu, with co-author Yi-Hsi Yeh, supervised by Dr Lan, has secured third place in the Best Paper Award competition at the AASRC Conference. Their study examined how variations in wing phase shift affect thrust generation in a robotic dragonfly, offering insights that contribute to ongoing research in bio-inspired flight.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2025-11-15-aasrc/</guid>
+      <description>&lt;p&gt;Ming-Han Wu, with co-author Yi-Hsi Yeh, supervised by Dr Lan, has secured third place in the Best Paper Award competition at the AASRC Conference. Their study examined how variations in wing phase shift affect thrust generation in a robotic dragonfly, offering insights that contribute to ongoing research in bio-inspired flight.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/25/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Two Teams Win Maker Potential Award at the 2025 Makerthon</title>
-      <link>https://ailab-research.github.io/news/2025-09-13-makerthon/</link>
+      <link>http://localhost:1313/news/2025-09-13-makerthon/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-09-13-makerthon/</guid>
-      <description>&lt;p&gt;Two student teams, supervised by Dr Lan, won the Maker Potential Award (創客潜力獎) at the 2025 Makerthon – Technology Empowerment × Future-Making Competition (創客松-科技賦能X自造未來競賽). One team developed an innovative aerial drone, while the other created a submersible vehicle inspired by marine engineering, both demonstrating the creative spirit and technical skills celebrated by the event.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/09_makerthon.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2025-09-13-makerthon/</guid>
+      <description>&lt;p&gt;Two student teams, supervised by Dr Lan, won the Maker Potential Award (創客潜力獎) at the 2025 Makerthon – Technology Empowerment × Future-Making Competition (創客松-科技賦能X自造未來競賽). One team developed an innovative aerial drone, while the other created a submersible vehicle inspired by marine engineering, both demonstrating the creative spirit and technical skills celebrated by the event.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/25/09_makerthon.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Nature-Inspired Designs Win Awards in Bionic Design Competition</title>
-      <link>https://ailab-research.github.io/news/2025-07-04-biomimicry/</link>
+      <link>http://localhost:1313/news/2025-07-04-biomimicry/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-07-04-biomimicry/</guid>
+      <guid>http://localhost:1313/news/2025-07-04-biomimicry/</guid>
       <description>&lt;p&gt;Under the guidance of Dr Lan, two student teams from the lab took part in the 2025 Bionic Design Competition (仿生設計競賽), an event showcasing nature-inspired innovation for sustainability. Among 78 entries, both teams received awards for their nature-inspired designs: one received a Merit Award for their bio-inspired stingray underwater vehicle, while the other was awarded Honourable Mention for a butterfly-inspired micro air vehicle. The competition, supported by Biomimicry Taiwan, promotes sustainable innovation rooted in natural principles, addressing global challenges from disaster resilience to environmental health.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Damselfly on AI-Lab</title>
-    <link>https://ailab-research.github.io/tags/damselfly/</link>
+    <link>http://localhost:1313/tags/damselfly/</link>
     <description>Recent content in Damselfly on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailab-research.github.io/tags/damselfly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/damselfly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research Reported by AIP</title>
-      <link>https://ailab-research.github.io/news/2022-06-30-aip-scilight/</link>
+      <link>http://localhost:1313/news/2022-06-30-aip-scilight/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2022-06-30-aip-scilight/</guid>
+      <guid>http://localhost:1313/news/2022-06-30-aip-scilight/</guid>
       <description>&lt;p&gt;The research conducted in the paper &amp;lsquo;Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly&amp;rsquo; was reported by AIP Scilight, congratulations.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://aip.scitation.org/doi/full/10.1063/10.0012500&#34; target=&#34;_blank&#34;&gt;https://aip.scitation.org/doi/full/10.1063/10.0012500&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paper Accepted by Physics of Fluids</title>
-      <link>https://ailab-research.github.io/news/2022-06-02-paper-accepted/</link>
+      <link>http://localhost:1313/news/2022-06-02-paper-accepted/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2022-06-02-paper-accepted/</guid>
+      <guid>http://localhost:1313/news/2022-06-02-paper-accepted/</guid>
       <description>&lt;p&gt;The paper &amp;lsquo;Optimal thrust efficiency for a tandem wing in forward flight using varied hindwing kinematics of a damselfly&amp;rsquo; was accepted by the journal Physics of Fluids, congratulations.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1063/5.0093208&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1063/5.0093208&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

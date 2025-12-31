@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICE on AI-Lab</title>
-    <link>https://ailab-research.github.io/tags/ice/</link>
+    <link>http://localhost:1313/tags/ice/</link>
     <description>Recent content in ICE on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailab-research.github.io/tags/ice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr Lan Chairs Insect Flight Symposium at Kyoto Congress</title>
-      <link>https://ailab-research.github.io/news/2024-08-29-ice/</link>
+      <link>http://localhost:1313/news/2024-08-29-ice/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2024-08-29-ice/</guid>
-      <description>&lt;p&gt;Dr Lan recently chaired a symposium at the 27th International Congress of Entomology held in Kyoto, where he and his research team presented three papers on insect flight. Their studies, contributing substantial insights into the aerodynamics of insect wings, garnered considerable interest among the global entomological community.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/24/08_ice.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2024-08-29-ice/</guid>
+      <description>&lt;p&gt;Dr Lan recently chaired a symposium at the 27th International Congress of Entomology held in Kyoto, where he and his research team presented three papers on insect flight. Their studies, contributing substantial insights into the aerodynamics of insect wings, garnered considerable interest among the global entomological community.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/24/08_ice.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

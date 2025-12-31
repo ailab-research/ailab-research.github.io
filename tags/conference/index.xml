@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on AI-Lab</title>
-    <link>https://ailab-research.github.io/tags/conference/</link>
+    <link>http://localhost:1313/tags/conference/</link>
     <description>Recent content in Conference on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailab-research.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Qi-Sheng Huang Earns Honourable Mention at CSME Conference</title>
-      <link>https://ailab-research.github.io/news/2025-12-05-csme/</link>
+      <link>http://localhost:1313/news/2025-12-05-csme/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-12-05-csme/</guid>
-      <description>&lt;p&gt;At this year’s CSME Conference, Qi-Sheng Huang received an Honourable Mention (佳作) in the student paper competition for research conducted under the supervision of Dr Lan. The study explores a pursuit strategy inspired by the silkmoth’s distinctive tracking behaviour. By translating this biological mechanism into an engineered system, the team demonstrated notable gains in both efficiency and accuracy, underscoring the value of nature-inspired approaches in robotic guidance and control.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2025-12-05-csme/</guid>
+      <description>&lt;p&gt;At this year’s CSME Conference, Qi-Sheng Huang received an Honourable Mention (佳作) in the student paper competition for research conducted under the supervision of Dr Lan. The study explores a pursuit strategy inspired by the silkmoth’s distinctive tracking behaviour. By translating this biological mechanism into an engineered system, the team demonstrated notable gains in both efficiency and accuracy, underscoring the value of nature-inspired approaches in robotic guidance and control.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/25/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Ming-Han Wu Takes Third Place in AASRC Best Paper Award</title>
-      <link>https://ailab-research.github.io/news/2025-11-15-aasrc/</link>
+      <link>http://localhost:1313/news/2025-11-15-aasrc/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-11-15-aasrc/</guid>
-      <description>&lt;p&gt;Ming-Han Wu, with co-author Yi-Hsi Yeh, supervised by Dr Lan, has secured third place in the Best Paper Award competition at the AASRC Conference. Their study examined how variations in wing phase shift affect thrust generation in a robotic dragonfly, offering insights that contribute to ongoing research in bio-inspired flight.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2025-11-15-aasrc/</guid>
+      <description>&lt;p&gt;Ming-Han Wu, with co-author Yi-Hsi Yeh, supervised by Dr Lan, has secured third place in the Best Paper Award competition at the AASRC Conference. Their study examined how variations in wing phase shift affect thrust generation in a robotic dragonfly, offering insights that contribute to ongoing research in bio-inspired flight.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/25/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Hsing-Yun Huang and Thanh Kim Hua Earn Honours at CSME</title>
-      <link>https://ailab-research.github.io/news/2024-11-17-csme/</link>
+      <link>http://localhost:1313/news/2024-11-17-csme/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2024-11-17-csme/</guid>
-      <description>&lt;p&gt;Dr Lan’s students, Hsing-Yun Huang and Thanh Kim Hua, have achieved remarkable success at the CSME’s Student Paper Competition. Both were awarded Honourable Mentions (佳作) for their outstanding research contributions, showcasing innovative approaches and technical excellence. Their achievements highlight the dedication and talent nurtured within Dr Lan&amp;rsquo;s mentorship, bringing pride to their academic community. Congratulations to both students!&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/24/11_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2024-11-17-csme/</guid>
+      <description>&lt;p&gt;Dr Lan’s students, Hsing-Yun Huang and Thanh Kim Hua, have achieved remarkable success at the CSME’s Student Paper Competition. Both were awarded Honourable Mentions (佳作) for their outstanding research contributions, showcasing innovative approaches and technical excellence. Their achievements highlight the dedication and talent nurtured within Dr Lan&amp;rsquo;s mentorship, bringing pride to their academic community. Congratulations to both students!&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/24/11_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Dr Lan Chairs Insect Flight Symposium at Kyoto Congress</title>
-      <link>https://ailab-research.github.io/news/2024-08-29-ice/</link>
+      <link>http://localhost:1313/news/2024-08-29-ice/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2024-08-29-ice/</guid>
-      <description>&lt;p&gt;Dr Lan recently chaired a symposium at the 27th International Congress of Entomology held in Kyoto, where he and his research team presented three papers on insect flight. Their studies, contributing substantial insights into the aerodynamics of insect wings, garnered considerable interest among the global entomological community.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/24/08_ice.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2024-08-29-ice/</guid>
+      <description>&lt;p&gt;Dr Lan recently chaired a symposium at the 27th International Congress of Entomology held in Kyoto, where he and his research team presented three papers on insect flight. Their studies, contributing substantial insights into the aerodynamics of insect wings, garnered considerable interest among the global entomological community.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/24/08_ice.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Preliminary Odour Tracking Study Presented at CSME Conference</title>
-      <link>https://ailab-research.github.io/news/2023-12-01-csme/</link>
+      <link>http://localhost:1313/news/2023-12-01-csme/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-12-01-csme/</guid>
-      <description>&lt;p&gt;After presenting their preliminary research on odour tracking at the 40th CSME Conference in Changhua, Dr Lan and lab members Kim Thanh Hua and Hsing-Yun Huang balanced their celebratory moments with intellectual engagement. They interacted with scholars from various universities, exchanging ideas on biomimetics and enriching their academic perspectives.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2023-12-01-csme/</guid>
+      <description>&lt;p&gt;After presenting their preliminary research on odour tracking at the 40th CSME Conference in Changhua, Dr Lan and lab members Kim Thanh Hua and Hsing-Yun Huang balanced their celebratory moments with intellectual engagement. They interacted with scholars from various universities, exchanging ideas on biomimetics and enriching their academic perspectives.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Preliminary Flapping Wing Study Presented at AASRC Conference</title>
-      <link>https://ailab-research.github.io/news/2023-11-25-aasrc/</link>
+      <link>http://localhost:1313/news/2023-11-25-aasrc/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-11-25-aasrc/</guid>
-      <description>&lt;p&gt;At the 65th AASRC Conference in Taichung, Dr Lan and his master&amp;rsquo;s student, Ching-Chan Huang, presented early research into the interaction between two separate flapping wings. This preliminary work contributes to comprehending the flight mechanisms in insect groups.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2023-11-25-aasrc/</guid>
+      <description>&lt;p&gt;At the 65th AASRC Conference in Taichung, Dr Lan and his master&amp;rsquo;s student, Ching-Chan Huang, presented early research into the interaction between two separate flapping wings. This preliminary work contributes to comprehending the flight mechanisms in insect groups.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Dr Lan and Dr Lai Collaborate to Unveil Conceptual Butterfly-Inspired Robot</title>
-      <link>https://ailab-research.github.io/news/2023-08-31-aris/</link>
+      <link>http://localhost:1313/news/2023-08-31-aris/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-08-31-aris/</guid>
-      <description>&lt;p&gt;At The 11th International Conference on Advanced Robotics and Intelligent Systems (ARIS 2023) conference in Taipei, Dr Lan and Dr Yu-Hsiang Lai revealed their groundbreaking research on butterfly-inspired robots. This biomimetic study not only deepens our understanding of biological flight mechanisms but also holds promise for advancing unmanned aerial vehicle (UAV) technology.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/08_aris.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2023-08-31-aris/</guid>
+      <description>&lt;p&gt;At The 11th International Conference on Advanced Robotics and Intelligent Systems (ARIS 2023) conference in Taipei, Dr Lan and Dr Yu-Hsiang Lai revealed their groundbreaking research on butterfly-inspired robots. This biomimetic study not only deepens our understanding of biological flight mechanisms but also holds promise for advancing unmanned aerial vehicle (UAV) technology.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/08_aris.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Dr Lan&#39;s Team Unveils 3 Cutting-Edge Research at AMAM Conference</title>
-      <link>https://ailab-research.github.io/news/2023-06-07-amam/</link>
+      <link>http://localhost:1313/news/2023-06-07-amam/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-06-07-amam/</guid>
-      <description>&lt;p&gt;In a collaborative effort, Dr Lan and his team made significant contributions to the 11th International Symposium on Adaptive Motion of Animals and Machines (AMAM) in Kobe, Japan. Their groundbreaking research delved into the realms of aerodynamics and odour tracking, providing valuable insights at the intersection of animal locomotion and technology.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/06_amam.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2023-06-07-amam/</guid>
+      <description>&lt;p&gt;In a collaborative effort, Dr Lan and his team made significant contributions to the 11th International Symposium on Adaptive Motion of Animals and Machines (AMAM) in Kobe, Japan. Their groundbreaking research delved into the realms of aerodynamics and odour tracking, providing valuable insights at the intersection of animal locomotion and technology.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/06_amam.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Dr Lan Invited to Give Talk at CSME Conference</title>
-      <link>https://ailab-research.github.io/news/2022-12-02-csme/</link>
+      <link>http://localhost:1313/news/2022-12-02-csme/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2022-12-02-csme/</guid>
-      <description>&lt;p&gt;Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/22/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2022-12-02-csme/</guid>
+      <description>&lt;p&gt;Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/22/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

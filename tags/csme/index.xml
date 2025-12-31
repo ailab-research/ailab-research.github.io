@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSME on AI-Lab</title>
-    <link>https://ailab-research.github.io/tags/csme/</link>
+    <link>http://localhost:1313/tags/csme/</link>
     <description>Recent content in CSME on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailab-research.github.io/tags/csme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/csme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Qi-Sheng Huang Earns Honourable Mention at CSME Conference</title>
-      <link>https://ailab-research.github.io/news/2025-12-05-csme/</link>
+      <link>http://localhost:1313/news/2025-12-05-csme/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2025-12-05-csme/</guid>
-      <description>&lt;p&gt;At this year’s CSME Conference, Qi-Sheng Huang received an Honourable Mention (佳作) in the student paper competition for research conducted under the supervision of Dr Lan. The study explores a pursuit strategy inspired by the silkmoth’s distinctive tracking behaviour. By translating this biological mechanism into an engineered system, the team demonstrated notable gains in both efficiency and accuracy, underscoring the value of nature-inspired approaches in robotic guidance and control.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2025-12-05-csme/</guid>
+      <description>&lt;p&gt;At this year’s CSME Conference, Qi-Sheng Huang received an Honourable Mention (佳作) in the student paper competition for research conducted under the supervision of Dr Lan. The study explores a pursuit strategy inspired by the silkmoth’s distinctive tracking behaviour. By translating this biological mechanism into an engineered system, the team demonstrated notable gains in both efficiency and accuracy, underscoring the value of nature-inspired approaches in robotic guidance and control.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/25/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Hsing-Yun Huang and Thanh Kim Hua Earn Honours at CSME</title>
-      <link>https://ailab-research.github.io/news/2024-11-17-csme/</link>
+      <link>http://localhost:1313/news/2024-11-17-csme/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2024-11-17-csme/</guid>
-      <description>&lt;p&gt;Dr Lan’s students, Hsing-Yun Huang and Thanh Kim Hua, have achieved remarkable success at the CSME’s Student Paper Competition. Both were awarded Honourable Mentions (佳作) for their outstanding research contributions, showcasing innovative approaches and technical excellence. Their achievements highlight the dedication and talent nurtured within Dr Lan&amp;rsquo;s mentorship, bringing pride to their academic community. Congratulations to both students!&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/24/11_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2024-11-17-csme/</guid>
+      <description>&lt;p&gt;Dr Lan’s students, Hsing-Yun Huang and Thanh Kim Hua, have achieved remarkable success at the CSME’s Student Paper Competition. Both were awarded Honourable Mentions (佳作) for their outstanding research contributions, showcasing innovative approaches and technical excellence. Their achievements highlight the dedication and talent nurtured within Dr Lan&amp;rsquo;s mentorship, bringing pride to their academic community. Congratulations to both students!&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/24/11_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Preliminary Odour Tracking Study Presented at CSME Conference</title>
-      <link>https://ailab-research.github.io/news/2023-12-01-csme/</link>
+      <link>http://localhost:1313/news/2023-12-01-csme/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-12-01-csme/</guid>
-      <description>&lt;p&gt;After presenting their preliminary research on odour tracking at the 40th CSME Conference in Changhua, Dr Lan and lab members Kim Thanh Hua and Hsing-Yun Huang balanced their celebratory moments with intellectual engagement. They interacted with scholars from various universities, exchanging ideas on biomimetics and enriching their academic perspectives.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2023-12-01-csme/</guid>
+      <description>&lt;p&gt;After presenting their preliminary research on odour tracking at the 40th CSME Conference in Changhua, Dr Lan and lab members Kim Thanh Hua and Hsing-Yun Huang balanced their celebratory moments with intellectual engagement. They interacted with scholars from various universities, exchanging ideas on biomimetics and enriching their academic perspectives.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Dr Lan Invited to Give Talk at CSME Conference</title>
-      <link>https://ailab-research.github.io/news/2022-12-02-csme/</link>
+      <link>http://localhost:1313/news/2022-12-02-csme/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2022-12-02-csme/</guid>
-      <description>&lt;p&gt;Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/22/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2022-12-02-csme/</guid>
+      <description>&lt;p&gt;Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/22/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

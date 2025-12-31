@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ARIS on AI-Lab</title>
-    <link>https://ailab-research.github.io/tags/aris/</link>
+    <link>http://localhost:1313/tags/aris/</link>
     <description>Recent content in ARIS on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailab-research.github.io/tags/aris/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/aris/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr Lan and Dr Lai Collaborate to Unveil Conceptual Butterfly-Inspired Robot</title>
-      <link>https://ailab-research.github.io/news/2023-08-31-aris/</link>
+      <link>http://localhost:1313/news/2023-08-31-aris/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/news/2023-08-31-aris/</guid>
-      <description>&lt;p&gt;At The 11th International Conference on Advanced Robotics and Intelligent Systems (ARIS 2023) conference in Taipei, Dr Lan and Dr Yu-Hsiang Lai revealed their groundbreaking research on butterfly-inspired robots. This biomimetic study not only deepens our understanding of biological flight mechanisms but also holds promise for advancing unmanned aerial vehicle (UAV) technology.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/08_aris.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/news/2023-08-31-aris/</guid>
+      <description>&lt;p&gt;At The 11th International Conference on Advanced Robotics and Intelligent Systems (ARIS 2023) conference in Taipei, Dr Lan and Dr Yu-Hsiang Lai revealed their groundbreaking research on butterfly-inspired robots. This biomimetic study not only deepens our understanding of biological flight mechanisms but also holds promise for advancing unmanned aerial vehicle (UAV) technology.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/08_aris.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

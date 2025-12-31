@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AI-Lab</title>
-    <link>https://ailab-research.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailab-research.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awards</title>
-      <link>https://ailab-research.github.io/categories/awards/</link>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/awards/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>https://ailab-research.github.io/categories/research/</link>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conference</title>
-      <link>https://ailab-research.github.io/categories/conference/</link>
-      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/conference/</guid>
+      <link>http://localhost:1313/categories/awards/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/awards/</guid>
       <description></description>
     </item>
     <item>
       <title>Events</title>
-      <link>https://ailab-research.github.io/categories/events/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/events/</guid>
+      <link>http://localhost:1313/categories/events/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/events/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/categories/research/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:1313/categories/conference/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>Lab News</title>
-      <link>https://ailab-research.github.io/categories/lab-news/</link>
+      <link>http://localhost:1313/categories/lab-news/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/lab-news/</guid>
+      <guid>http://localhost:1313/categories/lab-news/</guid>
       <description></description>
     </item>
     <item>
       <title>Journal</title>
-      <link>https://ailab-research.github.io/categories/journal/</link>
+      <link>http://localhost:1313/categories/journal/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/journal/</guid>
+      <guid>http://localhost:1313/categories/journal/</guid>
       <description></description>
     </item>
   </channel>
