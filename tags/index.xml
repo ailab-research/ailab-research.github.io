@@ -2,227 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AI-Lab</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://ailab-research.github.io/tags/</link>
     <description>Recent content in Tags on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailab-research.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capstone</title>
-      <link>http://localhost:1313/tags/capstone/</link>
+      <link>https://ailab-research.github.io/tags/capstone/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/capstone/</guid>
+      <guid>https://ailab-research.github.io/tags/capstone/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>https://ailab-research.github.io/tags/research/</link>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
+      <guid>https://ailab-research.github.io/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Conference</title>
-      <link>http://localhost:1313/tags/conference/</link>
+      <link>https://ailab-research.github.io/tags/conference/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/conference/</guid>
+      <guid>https://ailab-research.github.io/tags/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>CSME</title>
-      <link>http://localhost:1313/tags/csme/</link>
+      <link>https://ailab-research.github.io/tags/csme/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/csme/</guid>
+      <guid>https://ailab-research.github.io/tags/csme/</guid>
       <description></description>
     </item>
     <item>
       <title>Moth</title>
-      <link>http://localhost:1313/tags/moth/</link>
+      <link>https://ailab-research.github.io/tags/moth/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/moth/</guid>
+      <guid>https://ailab-research.github.io/tags/moth/</guid>
       <description></description>
     </item>
     <item>
       <title>Big Data</title>
-      <link>http://localhost:1313/tags/big-data/</link>
+      <link>https://ailab-research.github.io/tags/big-data/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/big-data/</guid>
+      <guid>https://ailab-research.github.io/tags/big-data/</guid>
       <description></description>
     </item>
     <item>
       <title>IMBD</title>
-      <link>http://localhost:1313/tags/imbd/</link>
+      <link>https://ailab-research.github.io/tags/imbd/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/imbd/</guid>
+      <guid>https://ailab-research.github.io/tags/imbd/</guid>
       <description></description>
     </item>
     <item>
       <title>Ray</title>
-      <link>http://localhost:1313/tags/ray/</link>
+      <link>https://ailab-research.github.io/tags/ray/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ray/</guid>
+      <guid>https://ailab-research.github.io/tags/ray/</guid>
       <description></description>
     </item>
     <item>
       <title>AASRC</title>
-      <link>http://localhost:1313/tags/aasrc/</link>
+      <link>https://ailab-research.github.io/tags/aasrc/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aasrc/</guid>
+      <guid>https://ailab-research.github.io/tags/aasrc/</guid>
       <description></description>
     </item>
     <item>
       <title>Dragonfly</title>
-      <link>http://localhost:1313/tags/dragonfly/</link>
+      <link>https://ailab-research.github.io/tags/dragonfly/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dragonfly/</guid>
+      <guid>https://ailab-research.github.io/tags/dragonfly/</guid>
       <description></description>
     </item>
     <item>
       <title>Robot</title>
-      <link>http://localhost:1313/tags/robot/</link>
+      <link>https://ailab-research.github.io/tags/robot/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/robot/</guid>
+      <guid>https://ailab-research.github.io/tags/robot/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
+      <link>https://ailab-research.github.io/tags/news/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/news/</guid>
+      <guid>https://ailab-research.github.io/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Elsevier</title>
-      <link>http://localhost:1313/tags/elsevier/</link>
+      <link>https://ailab-research.github.io/tags/elsevier/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/elsevier/</guid>
+      <guid>https://ailab-research.github.io/tags/elsevier/</guid>
       <description></description>
     </item>
     <item>
       <title>Odour</title>
-      <link>http://localhost:1313/tags/odour/</link>
+      <link>https://ailab-research.github.io/tags/odour/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/odour/</guid>
+      <guid>https://ailab-research.github.io/tags/odour/</guid>
       <description></description>
     </item>
     <item>
       <title>Physica D</title>
-      <link>http://localhost:1313/tags/physica-d/</link>
+      <link>https://ailab-research.github.io/tags/physica-d/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/physica-d/</guid>
+      <guid>https://ailab-research.github.io/tags/physica-d/</guid>
       <description></description>
     </item>
     <item>
       <title>Butterfly</title>
-      <link>http://localhost:1313/tags/butterfly/</link>
+      <link>https://ailab-research.github.io/tags/butterfly/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/butterfly/</guid>
+      <guid>https://ailab-research.github.io/tags/butterfly/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>https://ailab-research.github.io/tags/machine-learning/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <guid>https://ailab-research.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>AIP</title>
-      <link>http://localhost:1313/tags/aip/</link>
+      <link>https://ailab-research.github.io/tags/aip/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aip/</guid>
+      <guid>https://ailab-research.github.io/tags/aip/</guid>
       <description></description>
     </item>
     <item>
       <title>Kudos</title>
-      <link>http://localhost:1313/tags/kudos/</link>
+      <link>https://ailab-research.github.io/tags/kudos/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kudos/</guid>
+      <guid>https://ailab-research.github.io/tags/kudos/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics of Fluids</title>
-      <link>http://localhost:1313/tags/physics-of-fluids/</link>
+      <link>https://ailab-research.github.io/tags/physics-of-fluids/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/physics-of-fluids/</guid>
+      <guid>https://ailab-research.github.io/tags/physics-of-fluids/</guid>
       <description></description>
     </item>
     <item>
       <title>Bioinspiration and Biomimetics</title>
-      <link>http://localhost:1313/tags/bioinspiration-and-biomimetics/</link>
+      <link>https://ailab-research.github.io/tags/bioinspiration-and-biomimetics/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bioinspiration-and-biomimetics/</guid>
+      <guid>https://ailab-research.github.io/tags/bioinspiration-and-biomimetics/</guid>
       <description></description>
     </item>
     <item>
       <title>IOP</title>
-      <link>http://localhost:1313/tags/iop/</link>
+      <link>https://ailab-research.github.io/tags/iop/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/iop/</guid>
+      <guid>https://ailab-research.github.io/tags/iop/</guid>
       <description></description>
     </item>
     <item>
       <title>ICE</title>
-      <link>http://localhost:1313/tags/ice/</link>
+      <link>https://ailab-research.github.io/tags/ice/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ice/</guid>
+      <guid>https://ailab-research.github.io/tags/ice/</guid>
       <description></description>
     </item>
     <item>
       <title>Ocean Engineering</title>
-      <link>http://localhost:1313/tags/ocean-engineering/</link>
+      <link>https://ailab-research.github.io/tags/ocean-engineering/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ocean-engineering/</guid>
+      <guid>https://ailab-research.github.io/tags/ocean-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>ARIS</title>
-      <link>http://localhost:1313/tags/aris/</link>
+      <link>https://ailab-research.github.io/tags/aris/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aris/</guid>
+      <guid>https://ailab-research.github.io/tags/aris/</guid>
       <description></description>
     </item>
     <item>
       <title>Speech</title>
-      <link>http://localhost:1313/tags/speech/</link>
+      <link>https://ailab-research.github.io/tags/speech/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/speech/</guid>
+      <guid>https://ailab-research.github.io/tags/speech/</guid>
       <description></description>
     </item>
     <item>
       <title>Interview</title>
-      <link>http://localhost:1313/tags/interview/</link>
+      <link>https://ailab-research.github.io/tags/interview/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/interview/</guid>
+      <guid>https://ailab-research.github.io/tags/interview/</guid>
       <description></description>
     </item>
     <item>
       <title>AMAM</title>
-      <link>http://localhost:1313/tags/amam/</link>
+      <link>https://ailab-research.github.io/tags/amam/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/amam/</guid>
+      <guid>https://ailab-research.github.io/tags/amam/</guid>
       <description></description>
     </item>
     <item>
       <title>Drones</title>
-      <link>http://localhost:1313/tags/drones/</link>
+      <link>https://ailab-research.github.io/tags/drones/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/drones/</guid>
+      <guid>https://ailab-research.github.io/tags/drones/</guid>
       <description></description>
     </item>
     <item>
       <title>MDPI</title>
-      <link>http://localhost:1313/tags/mdpi/</link>
+      <link>https://ailab-research.github.io/tags/mdpi/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mdpi/</guid>
+      <guid>https://ailab-research.github.io/tags/mdpi/</guid>
       <description></description>
     </item>
     <item>
       <title>Damselfly</title>
-      <link>http://localhost:1313/tags/damselfly/</link>
+      <link>https://ailab-research.github.io/tags/damselfly/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/damselfly/</guid>
+      <guid>https://ailab-research.github.io/tags/damselfly/</guid>
       <description></description>
     </item>
   </channel>

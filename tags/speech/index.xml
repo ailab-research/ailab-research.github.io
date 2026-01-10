@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speech on AI-Lab</title>
-    <link>http://localhost:1313/tags/speech/</link>
+    <link>https://ailab-research.github.io/tags/speech/</link>
     <description>Recent content in Speech on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/speech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailab-research.github.io/tags/speech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr Lan and Dr Lai Collaborate to Unveil Conceptual Butterfly-Inspired Robot</title>
-      <link>http://localhost:1313/news/2023-08-31-aris/</link>
+      <link>https://ailab-research.github.io/news/2023-08-31-aris/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2023-08-31-aris/</guid>
-      <description>&lt;p&gt;At The 11th International Conference on Advanced Robotics and Intelligent Systems (ARIS 2023) conference in Taipei, Dr Lan and Dr Yu-Hsiang Lai revealed their groundbreaking research on butterfly-inspired robots. This biomimetic study not only deepens our understanding of biological flight mechanisms but also holds promise for advancing unmanned aerial vehicle (UAV) technology.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/08_aris.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://ailab-research.github.io/news/2023-08-31-aris/</guid>
+      <description>&lt;p&gt;At The 11th International Conference on Advanced Robotics and Intelligent Systems (ARIS 2023) conference in Taipei, Dr Lan and Dr Yu-Hsiang Lai revealed their groundbreaking research on butterfly-inspired robots. This biomimetic study not only deepens our understanding of biological flight mechanisms but also holds promise for advancing unmanned aerial vehicle (UAV) technology.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/08_aris.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Dr Lan to Give Keynote Speech at National Defense University</title>
-      <link>http://localhost:1313/news/2023-02-24-speech/</link>
+      <link>https://ailab-research.github.io/news/2023-02-24-speech/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2023-02-24-speech/</guid>
-      <description>&lt;p&gt;Dr Lan delivers an inspiring speech on the application of odour sensing at National Defense University.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/02_speech.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://ailab-research.github.io/news/2023-02-24-speech/</guid>
+      <description>&lt;p&gt;Dr Lan delivers an inspiring speech on the application of odour sensing at National Defense University.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/02_speech.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Dr Lan Invited to Give Talk at CSME Conference</title>
-      <link>http://localhost:1313/news/2022-12-02-csme/</link>
+      <link>https://ailab-research.github.io/news/2022-12-02-csme/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2022-12-02-csme/</guid>
-      <description>&lt;p&gt;Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/22/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://ailab-research.github.io/news/2022-12-02-csme/</guid>
+      <description>&lt;p&gt;Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/22/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

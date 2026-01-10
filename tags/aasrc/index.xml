@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AASRC on AI-Lab</title>
-    <link>http://localhost:1313/tags/aasrc/</link>
+    <link>https://ailab-research.github.io/tags/aasrc/</link>
     <description>Recent content in AASRC on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/aasrc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailab-research.github.io/tags/aasrc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ming-Han Wu Takes Third Place in AASRC Best Paper Award</title>
-      <link>http://localhost:1313/news/2025-11-15-aasrc/</link>
+      <link>https://ailab-research.github.io/news/2025-11-15-aasrc/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-11-15-aasrc/</guid>
-      <description>&lt;p&gt;Ming-Han Wu, with co-author Yi-Hsi Yeh, supervised by Dr Lan, has secured third place in the Best Paper Award competition at the AASRC Conference. Their study examined how variations in wing phase shift affect thrust generation in a robotic dragonfly, offering insights that contribute to ongoing research in bio-inspired flight.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/25/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://ailab-research.github.io/news/2025-11-15-aasrc/</guid>
+      <description>&lt;p&gt;Ming-Han Wu, with co-author Yi-Hsi Yeh, supervised by Dr Lan, has secured third place in the Best Paper Award competition at the AASRC Conference. Their study examined how variations in wing phase shift affect thrust generation in a robotic dragonfly, offering insights that contribute to ongoing research in bio-inspired flight.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Preliminary Flapping Wing Study Presented at AASRC Conference</title>
-      <link>http://localhost:1313/news/2023-11-25-aasrc/</link>
+      <link>https://ailab-research.github.io/news/2023-11-25-aasrc/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2023-11-25-aasrc/</guid>
-      <description>&lt;p&gt;At the 65th AASRC Conference in Taichung, Dr Lan and his master&amp;rsquo;s student, Ching-Chan Huang, presented early research into the interaction between two separate flapping wings. This preliminary work contributes to comprehending the flight mechanisms in insect groups.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/23/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://ailab-research.github.io/news/2023-11-25-aasrc/</guid>
+      <description>&lt;p&gt;At the 65th AASRC Conference in Taichung, Dr Lan and his master&amp;rsquo;s student, Ching-Chan Huang, presented early research into the interaction between two separate flapping wings. This preliminary work contributes to comprehending the flight mechanisms in insect groups.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/23/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

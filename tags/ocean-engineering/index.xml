@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ocean Engineering on AI-Lab</title>
-    <link>http://localhost:1313/tags/ocean-engineering/</link>
+    <link>https://ailab-research.github.io/tags/ocean-engineering/</link>
     <description>Recent content in Ocean Engineering on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ocean-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailab-research.github.io/tags/ocean-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research Paper Published in &#39;Ocean Engineering&#39;: A Leap Forward</title>
-      <link>http://localhost:1313/news/2024-01-12-journal/</link>
+      <link>https://ailab-research.github.io/news/2024-01-12-journal/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2024-01-12-journal/</guid>
+      <guid>https://ailab-research.github.io/news/2024-01-12-journal/</guid>
       <description>&lt;p&gt;Heartfelt congratulations to Dr Lai&amp;rsquo;s team and Dr Lan on their seminal publication in &amp;lsquo;Ocean Engineering&amp;rsquo;. Their paper, &amp;lsquo;Strouhal number impact on propulsion efficiency in fully-active oscillating foils: Unpacking frequency, amplitude, and velocity relationships&amp;rsquo;, is not just a leap forward in marine technology but also holds immense potential for transforming oscillating foils technology across diverse realms, from the depths of the ocean to the intricacies of flapping flight.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1016/j.oceaneng.2024.116686&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.oceaneng.2024.116686&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

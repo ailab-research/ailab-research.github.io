@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dragonfly on AI-Lab</title>
-    <link>http://localhost:1313/tags/dragonfly/</link>
+    <link>https://ailab-research.github.io/tags/dragonfly/</link>
     <description>Recent content in Dragonfly on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dragonfly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailab-research.github.io/tags/dragonfly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ming-Han Wu Takes Third Place in AASRC Best Paper Award</title>
-      <link>http://localhost:1313/news/2025-11-15-aasrc/</link>
+      <link>https://ailab-research.github.io/news/2025-11-15-aasrc/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-11-15-aasrc/</guid>
-      <description>&lt;p&gt;Ming-Han Wu, with co-author Yi-Hsi Yeh, supervised by Dr Lan, has secured third place in the Best Paper Award competition at the AASRC Conference. Their study examined how variations in wing phase shift affect thrust generation in a robotic dragonfly, offering insights that contribute to ongoing research in bio-inspired flight.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/25/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://ailab-research.github.io/news/2025-11-15-aasrc/</guid>
+      <description>&lt;p&gt;Ming-Han Wu, with co-author Yi-Hsi Yeh, supervised by Dr Lan, has secured third place in the Best Paper Award competition at the AASRC Conference. Their study examined how variations in wing phase shift affect thrust generation in a robotic dragonfly, offering insights that contribute to ongoing research in bio-inspired flight.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/25/11_aasrc.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Innovative Approach to Flapping Flight Analysis Published in Physica D</title>
-      <link>http://localhost:1313/news/2025-03-12-journal/</link>
+      <link>https://ailab-research.github.io/news/2025-03-12-journal/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-03-12-journal/</guid>
+      <guid>https://ailab-research.github.io/news/2025-03-12-journal/</guid>
       <description>&lt;p&gt;Dr Lan and Dr Lai&amp;rsquo;s latest study, &amp;lsquo;Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions&amp;rsquo;, has been published in Physica D: Nonlinear Phenomena. The research introduces a novel framework combining signal decomposition and decision tree algorithms, reducing computational time by up to 75% while maintaining high accuracy. Validated with damselfly data, this approach accelerates flapping flight analysis and supports the efficient design of micro air vehicles (MAVs), offering a scalable solution for future aerodynamic research.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr Lan Invited to Give Talk at CSME Conference</title>
-      <link>http://localhost:1313/news/2022-12-02-csme/</link>
+      <link>https://ailab-research.github.io/news/2022-12-02-csme/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2022-12-02-csme/</guid>
-      <description>&lt;p&gt;Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/22/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://ailab-research.github.io/news/2022-12-02-csme/</guid>
+      <description>&lt;p&gt;Dr Lan gives a speech entitled &amp;lsquo;Machine Learning in Flapping Flight Transient Acceleration Modelling&amp;rsquo; at CSME 2022.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ailab-research.github.io/images/22/12_csme.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>

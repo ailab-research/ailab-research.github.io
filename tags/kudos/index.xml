@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kudos on AI-Lab</title>
-    <link>http://localhost:1313/tags/kudos/</link>
+    <link>https://ailab-research.github.io/tags/kudos/</link>
     <description>Recent content in Kudos on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/kudos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailab-research.github.io/tags/kudos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Innovative Insights Featured on AIP Publishing Showcase</title>
-      <link>http://localhost:1313/news/2025-03-05-kudos/</link>
+      <link>https://ailab-research.github.io/news/2025-03-05-kudos/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-03-05-kudos/</guid>
+      <guid>https://ailab-research.github.io/news/2025-03-05-kudos/</guid>
       <description>&lt;p&gt;Dr Lan and his research team have been recognised by the American Institute of Physics (AIP), with their latest study selected as a feature article on Kudos&amp;rsquo; Showcase platform. The research, titled &amp;lsquo;Balancing Thrust and Energy Efficiency: Optimised Asymmetric Flapping Inspired by Batoid Locomotion&amp;rsquo;, explores how the unique swimming motion of stingrays can inspire more efficient designs for underwater vehicles.&lt;/p&gt;&#xA;&lt;p&gt;By using advanced computer simulations, the team discovered that shorter, quicker downstrokes—similar to how stingrays naturally move—enhance thrust while reducing energy consumption. These findings could lead to the development of underwater vehicles and robots that move more efficiently, with potential applications in marine exploration and environmental monitoring.&lt;/p&gt;</description>
     </item>
   </channel>
