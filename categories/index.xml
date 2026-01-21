@@ -6,27 +6,34 @@
     <description>Recent content in Categories on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Awards</title>
-      <link>https://ailab-research.github.io/categories/awards/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/awards/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Events</title>
-      <link>https://ailab-research.github.io/categories/events/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/events/</guid>
+      <title>Journal</title>
+      <link>https://ailab-research.github.io/categories/journal/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/categories/journal/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
       <link>https://ailab-research.github.io/categories/research/</link>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/categories/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>https://ailab-research.github.io/categories/events/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/categories/events/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Awards</title>
+      <link>https://ailab-research.github.io/categories/awards/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/categories/awards/</guid>
       <description></description>
     </item>
     <item>
@@ -41,13 +48,6 @@
       <link>https://ailab-research.github.io/categories/lab-news/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/categories/lab-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Journal</title>
-      <link>https://ailab-research.github.io/categories/journal/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ailab-research.github.io/categories/journal/</guid>
       <description></description>
     </item>
   </channel>

@@ -6,8 +6,22 @@
     <description>Recent content on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Study on Cross-disciplinary Diagnostics Published in Veterinary Quarterly</title>
+      <link>https://ailab-research.github.io/news/2026-01-21-journal/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2026-01-21-journal/</guid>
+      <description>&lt;p&gt;Dr Lan’s latest study highlights a cross-disciplinary collaboration with a veterinary science team to develop a machine learning–based diagnostic approach that accelerates disease detection in companion animals. By integrating computational modelling with veterinary oncology expertise, the project analyses patterns in serum biomarkers to distinguish pathological signatures with high sensitivity. The collaborative framework enables rapid screening from minimally invasive samples, supporting earlier and more reliable clinical decisions. This work underscores the value of bridging artificial intelligence and veterinary medicine, and points towards scalable diagnostic tools that may improve outcomes in animal health care.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media Interview Highlights New High-performance Computing Platform for Research</title>
+      <link>https://ailab-research.github.io/news/2026-01-15-tech/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2026-01-15-tech/</guid>
+      <description>&lt;p&gt;Dr Lan worked with departmental colleagues to secure funding for a high-performance server platform, strengthening the university’s computational research capacity. The project has attracted media attention, with interviews highlighting its role in supporting data-intensive and AI-driven research. During the interviews, Dr Lan shared examples of cross-disciplinary AI collaborations, emphasising how enhanced computing infrastructure enables closer cooperation and accelerates research progress across the campus.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;a href=&#34;https://technews.tw/2026/01/15/ai-enabled-university&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://ailab-research.github.io/images/26/01_tech.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
     <item>
       <title>Infinite Potential Award Secured at the 2025 Innovation Arena</title>
       <link>https://ailab-research.github.io/news/2025-12-15-startup/</link>
@@ -314,7 +328,7 @@
       <link>https://ailab-research.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/publications/</guid>
-      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;research-articles&#34;&gt;Research Articles&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;, Chang, C.-Y., Liu, S.-W., Wu, C.-C., Lai, K.-M., &amp;amp; Liu, H.-P.* (in press). Machine Learning-Assisted Detection of Canine Mammary Tumors Using Serum Autoantibody Signatures. &lt;em&gt;Veterinary Quarterly&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;*, &amp;amp; Luo, S.-T. (2025). Flow-induced variations in odour boundary formation. &lt;em&gt;Physica D: Nonlinear Phenomena, 481&lt;/em&gt;, 134827. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134827&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134827&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Lai, Y.-H. (2025). Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions. &lt;em&gt;Physica D: Nonlinear Phenomena, 476&lt;/em&gt;, 134618. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134618&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134618&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;research-articles&#34;&gt;Research Articles&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;, Chang, C. Y., Liu, S. W., Wu, C. C., Lai, K. M., &amp;amp; Liu, H. P.* (2026). Machine learning-assisted detection of canine mammary tumors using serum autoantibody signatures. &lt;em&gt;Veterinary Quarterly, 46&lt;/em&gt;(1). &lt;a href=&#34;https://doi.org/10.1080/01652176.2026.2617470&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1080/01652176.2026.2617470&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;*, &amp;amp; Luo, S.-T. (2025). Flow-induced variations in odour boundary formation. &lt;em&gt;Physica D: Nonlinear Phenomena, 481&lt;/em&gt;, 134827. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134827&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134827&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lan, B.&lt;/strong&gt;* &amp;amp; Lai, Y.-H. (2025). Accelerating Flapping Flight Analysis: Reducing CFD Dependency with a Hybrid Decision Tree Approach for Swift Velocity Predictions. &lt;em&gt;Physica D: Nonlinear Phenomena, 476&lt;/em&gt;, 134618. &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134618&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.physd.2025.134618&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>

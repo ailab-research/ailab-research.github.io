@@ -6,8 +6,22 @@
     <description>Recent content in News on AI-Lab</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Study on Cross-disciplinary Diagnostics Published in Veterinary Quarterly</title>
+      <link>https://ailab-research.github.io/news/2026-01-21-journal/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2026-01-21-journal/</guid>
+      <description>&lt;p&gt;Dr Lan’s latest study highlights a cross-disciplinary collaboration with a veterinary science team to develop a machine learning–based diagnostic approach that accelerates disease detection in companion animals. By integrating computational modelling with veterinary oncology expertise, the project analyses patterns in serum biomarkers to distinguish pathological signatures with high sensitivity. The collaborative framework enables rapid screening from minimally invasive samples, supporting earlier and more reliable clinical decisions. This work underscores the value of bridging artificial intelligence and veterinary medicine, and points towards scalable diagnostic tools that may improve outcomes in animal health care.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media Interview Highlights New High-performance Computing Platform for Research</title>
+      <link>https://ailab-research.github.io/news/2026-01-15-tech/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2026-01-15-tech/</guid>
+      <description>&lt;p&gt;Dr Lan worked with departmental colleagues to secure funding for a high-performance server platform, strengthening the university’s computational research capacity. The project has attracted media attention, with interviews highlighting its role in supporting data-intensive and AI-driven research. During the interviews, Dr Lan shared examples of cross-disciplinary AI collaborations, emphasising how enhanced computing infrastructure enables closer cooperation and accelerates research progress across the campus.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;a href=&#34;https://technews.tw/2026/01/15/ai-enabled-university&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://ailab-research.github.io/images/26/01_tech.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
     <item>
       <title>Infinite Potential Award Secured at the 2025 Innovation Arena</title>
       <link>https://ailab-research.github.io/news/2025-12-15-startup/</link>
