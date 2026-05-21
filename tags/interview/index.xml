@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on Advanced Integration Laboratory</title>
+    <link>https://ailab-research.github.io/tags/interview/</link>
+    <description>Recent content in Interview on Advanced Integration Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Media Interview Highlights New High-performance Computing Platform for Research</title>
+      <link>https://ailab-research.github.io/news/2026/2026-01-15-tech/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2026/2026-01-15-tech/</guid>
+      <description>&lt;p&gt;Dr Lan and departmental colleagues secured funding for a high-performance server platform to support AI-driven and data-intensive research across the university.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr Lan Discusses Interdisciplinary Education in Ministry of Education Interview</title>
+      <link>https://ailab-research.github.io/news/2023/2023-07-25-edu-interview/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2023/2023-07-25-edu-interview/</guid>
+      <description>&lt;p&gt;In a recent interview with the Ministry of Education, Dr Lan discussed the cross-disciplinary research at the Enable Center founded by Professor Charles W. Tu. The interview highlighted a collaborative project with Dr Ching-Wen Tan that combined entomology and mechanical engineering through an innovative biomimetic approach.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

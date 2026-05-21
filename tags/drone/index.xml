@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drone on Advanced Integration Laboratory</title>
+    <link>https://ailab-research.github.io/tags/drone/</link>
+    <description>Recent content in Drone on Advanced Integration Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/drone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infinite Potential Award Secured at the 2025 Innovation Arena</title>
+      <link>https://ailab-research.github.io/news/2025/2025-12-15-startup/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-12-15-startup/</guid>
+      <description>&lt;p&gt;Under the guidance of Dr Lan, a team of three undergraduate students received the Infinite Potential Award (潛力無限獎) at the 2025 Innovation Arena (興創競技場), organised by the Startup @NCHU Innovation Center. The team developed a biomimetic rotary-wing unmanned aerial vehicle inspired by natural flight mechanisms, highlighting the practical potential of university-driven innovation and applied research.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

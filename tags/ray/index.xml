@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ray on Advanced Integration Laboratory</title>
+    <link>https://ailab-research.github.io/tags/ray/</link>
+    <description>Recent content in Ray on Advanced Integration Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/ray/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Undergraduate Team Receives Honourable Mention for Bio-Inspired Ray Project</title>
+      <link>https://ailab-research.github.io/news/2025/2025-11-22-capstone/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-11-22-capstone/</guid>
+      <description>&lt;p&gt;Three undergraduate students supervised by Dr Lan received an Honourable Mention（佳作）in the Capstone Project (機械設計與製作專題) competition. Their project explored a bio-inspired ray system, applying ray-like propulsion principles to demonstrate the potential of biomimetic design in underwater robotics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1st Place at the 2025 Ocean Challenge</title>
+      <link>https://ailab-research.github.io/news/2025/2025-09-02-ocean/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-09-02-ocean/</guid>
+      <description>&lt;p&gt;Three undergraduates, supervised by Dr Lan, won 1st place at the 2025 Ocean Challenge (臺灣海洋國際青年論壇) with a manta ray-inspired underwater vehicle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nature-Inspired Designs Win Awards in Bionic Design Competition</title>
+      <link>https://ailab-research.github.io/news/2025/2025-07-04-biomimicry/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-07-04-biomimicry/</guid>
+      <description>&lt;p&gt;Under the guidance of Dr Lan, two student teams received awards at the 2025 Bionic Design Competition (仿生設計競賽) for their nature-inspired engineering projects. One team won a Merit Award (優選) for a bio-inspired stingray underwater vehicle, while the other received an Honourable Mention (佳作) for a butterfly-inspired micro air vehicle, highlighting the potential of biomimetic design for sustainable innovation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Innovative Insights Featured on AIP Publishing Showcase</title>
+      <link>https://ailab-research.github.io/news/2025/2025-03-05-kudos/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-03-05-kudos/</guid>
+      <description>&lt;p&gt;Dr Lan and his research team were recognised by the American Institute of Physics (AIP), with their latest study featured on the Kudos Showcase platform. The research found that stingray-inspired asymmetric flapping motions can improve thrust while reducing energy consumption, supporting the development of more efficient underwater vehicles and robots.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Published in Physics of Fluids: Biomimetic Propulsion Study</title>
+      <link>https://ailab-research.github.io/news/2025/2025-03-04-journal/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-03-04-journal/</guid>
+      <description>&lt;p&gt;Dr Lan, Dr Lai and their team published a study in Physics of Fluids showing that stingray-inspired asymmetric flapping can improve underwater propulsion efficiency. Using optimisation techniques and flow simulations, the research identified motion patterns that enhance vortex dynamics and support the design of biomimetic aquatic robots.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1063/5.0253805&#34;&gt;https://doi.org/10.1063/5.0253805&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Breakthrough in Manta-like Swimming Efficiency</title>
+      <link>https://ailab-research.github.io/news/2024/2024-10-01-journal/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2024/2024-10-01-journal/</guid>
+      <description>&lt;p&gt;Dr Lai’s team and Dr Lan published a study in Physics of Fluids examining how manta-inspired asymmetric swimming motions can improve underwater vehicle efficiency. The research identified motion parameters that enhance thrust and propulsion performance, supporting advances in biomimetic underwater technology.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1063/5.0229833&#34;&gt;https://doi.org/10.1063/5.0229833&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

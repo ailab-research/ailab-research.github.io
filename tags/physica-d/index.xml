@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physica-D on Advanced Integration Laboratory</title>
+    <link>https://ailab-research.github.io/tags/physica-d/</link>
+    <description>Recent content in Physica-D on Advanced Integration Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/physica-d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Study on Odour Boundaries Published in Physica D</title>
+      <link>https://ailab-research.github.io/news/2025/2025-07-18-journal/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-07-18-journal/</guid>
+      <description>&lt;p&gt;Dr Lan’s latest study, Flow-induced variations in odour boundary formation, examines how odours spread in moving air through flow simulations. The research found that stronger airflow speeds narrow and stabilise odour boundaries, offering insights for biological tracking studies and the development of odour-sensing robots in complex environments.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134827&#34;&gt;https://doi.org/10.1016/j.physd.2025.134827&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Innovative Approach to Flapping Flight Analysis Published in Physica D</title>
+      <link>https://ailab-research.github.io/news/2025/2025-03-12-journal/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-03-12-journal/</guid>
+      <description>&lt;p&gt;Dr Lan and Dr Lai’s latest study, published in Physica D: Nonlinear Phenomena, introduces a hybrid decision tree approach that reduces flapping flight analysis time by up to 75% while maintaining high accuracy. The method supports faster aerodynamic research and more efficient micro air vehicle development.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134618&#34;&gt;https://doi.org/10.1016/j.physd.2025.134618&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

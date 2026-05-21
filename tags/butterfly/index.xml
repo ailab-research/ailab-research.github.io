@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Butterfly on Advanced Integration Laboratory</title>
+    <link>https://ailab-research.github.io/tags/butterfly/</link>
+    <description>Recent content in Butterfly on Advanced Integration Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/butterfly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nature-Inspired Designs Win Awards in Bionic Design Competition</title>
+      <link>https://ailab-research.github.io/news/2025/2025-07-04-biomimicry/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-07-04-biomimicry/</guid>
+      <description>&lt;p&gt;Under the guidance of Dr Lan, two student teams received awards at the 2025 Bionic Design Competition (仿生設計競賽) for their nature-inspired engineering projects. One team won a Merit Award (優選) for a bio-inspired stingray underwater vehicle, while the other received an Honourable Mention (佳作) for a butterfly-inspired micro air vehicle, highlighting the potential of biomimetic design for sustainable innovation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr Lan Chairs Insect Flight Symposium at Kyoto Congress</title>
+      <link>https://ailab-research.github.io/news/2024/2024-08-29-ice/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2024/2024-08-29-ice/</guid>
+      <description>&lt;p&gt;Dr Lan recently chaired a symposium at the 27th International Congress of Entomology in Kyoto, where his research team presented three studies on insect flight aerodynamics. The work attracted strong interest from the international entomological research community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr Lan and Dr Lai Collaborate to Unveil Conceptual Butterfly-Inspired Robot</title>
+      <link>https://ailab-research.github.io/news/2023/2023-08-31-aris/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2023/2023-08-31-aris/</guid>
+      <description>&lt;p&gt;At the 11th International Conference on Advanced Robotics and Intelligent Systems (ARIS 2023) in Taipei, Dr Lan and Dr Yu-Hsiang Lai presented research on butterfly-inspired robots. The study advances understanding of biological flight mechanisms and supports future unmanned aerial vehicle (UAV) development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr Lan&#39;s Team Unveils 3 Cutting-Edge Research at AMAM Conference</title>
+      <link>https://ailab-research.github.io/news/2023/2023-06-07-amam/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2023/2023-06-07-amam/</guid>
+      <description>&lt;p&gt;Dr Lan and his team presented research on aerodynamics and odour tracking at the 11th International Symposium on Adaptive Motion of Animals and Machines (AMAM) in Kobe. Their work contributed new insights into the interaction between animal locomotion and engineering technology.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Journal Paper on Drones</title>
+      <link>https://ailab-research.github.io/news/2022/2022-08-17-drones/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2022/2022-08-17-drones/</guid>
+      <description>&lt;p&gt;Dr Lan and his team published a study in Drones introducing a neural network approach for estimating transient aerodynamic properties in flapping wing systems. The research supports faster and more efficient analysis of flapping flight dynamics.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.3390/drones6080210&#34;&gt;https://doi.org/10.3390/drones6080210&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

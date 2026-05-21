@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Robotic Systems | Advanced Integration Laboratory</title>
+    <link rel="icon" href="/favicon/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="/favicon/favicon.png">
+    <link rel="stylesheet" href="/css/main.css?v=235">
+    
+  </head>
+  <body class="page-section-research">
+    <header class="site-header">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="container header-inner">
+    <a class="brand" href="/">
+      <img class="brand-logo" src="/images/logo.png?v=2" alt="Advanced Integration Laboratory">
+    </a>
+    <input class="nav-toggle" type="checkbox" id="nav-toggle" aria-label="Toggle navigation">
+    <label class="menu-button" for="nav-toggle" aria-hidden="true">
+      <span></span>
+      <span></span>
+      <span></span>
+    </label>
+    <label class="nav-backdrop" for="nav-toggle" aria-hidden="true"></label>
+    <nav class="main-nav" aria-label="Primary navigation">
+      
+        
+          <a href="/" >Home</a>
+        
+      
+        
+          <a href="/research/" aria-current="page">Research</a>
+        
+      
+        
+          <a href="/publications/" >Publications</a>
+        
+      
+        
+          
+          <div class="nav-dropdown">
+            <button class="nav-dropdown-trigger" type="button"  aria-haspopup="true">
+              People
+            </button>
+            <div class="dropdown-menu">
+              
+                <a href="/people/principal-investigator/">Principal Investigator</a>
+              
+                <a href="/people/members/">Members</a>
+              
+            </div>
+          </div>
+        
+      
+        
+          <a href="/awards/" >Awards</a>
+        
+      
+        
+          <a href="/news/" >News</a>
+        
+      
+        
+          <a href="/contact/" >Contact</a>
+        
+      
+    </nav>
+  </div>
+</header>
+
+    <main id="main">
+      
+<article class="section">
+  <div class="container prose">
+    
+    <p class="meta">1 January 0001</p>
+    <h1>Robotic Systems</h1>
+    
+    <p>Robotic systems research focuses on the design and integration of autonomous platforms across aerial, ground, and underwater environments. Current work combines bio-inspired mechanics, embedded sensing, and control strategies to develop adaptive and environmentally interactive robotic systems.</p>
+<h3 id="key-topics">Key topics</h3>
+<ul>
+<li>Biomimetic robotics</li>
+<li>Autonomous platforms</li>
+<li>Embedded sensing</li>
+<li>Adaptive control</li>
+<li>Robot system integration</li>
+</ul>
+
+  </div>
+</article>
+
+    </main>
+    <footer class="site-footer">
+  <div class="container footer-inner">
+    
+    
+    <p>Copyright &copy; 2022-2026 Advanced Integration Laboratory. All Rights Reserved.</p>
+    
+  </div>
+</footer>
+
+    <script>
+      (() => {
+        const currentUrl = new URL(window.location.href);
+        const links = document.querySelectorAll('a[href]');
+
+        links.forEach((link) => {
+          const rawHref = link.getAttribute('href');
+          if (!rawHref || rawHref.startsWith('#')) {
+            return;
+          }
+
+          if (/^(mailto:|tel:|javascript:)/i.test(rawHref)) {
+            return;
+          }
+
+          let resolvedUrl;
+          try {
+            resolvedUrl = new URL(rawHref, currentUrl);
+          } catch {
+            return;
+          }
+
+          if (resolvedUrl.origin === currentUrl.origin) {
+            return;
+          }
+
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+        });
+      })();
+    </script>
+  </body>
+</html>

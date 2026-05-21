@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amam on Advanced Integration Laboratory</title>
+    <link>https://ailab-research.github.io/tags/amam/</link>
+    <description>Recent content in Amam on Advanced Integration Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 07 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/amam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr Lan&#39;s Team Unveils 3 Cutting-Edge Research at AMAM Conference</title>
+      <link>https://ailab-research.github.io/news/2023/2023-06-07-amam/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2023/2023-06-07-amam/</guid>
+      <description>&lt;p&gt;Dr Lan and his team presented research on aerodynamics and odour tracking at the 11th International Symposium on Adaptive Motion of Animals and Machines (AMAM) in Kobe. Their work contributed new insights into the interaction between animal locomotion and engineering technology.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
