@@ -15,5 +15,12 @@
       <guid>https://ailab-research.github.io/news/2025/2025-12-15-startup/</guid>
       <description>&lt;p&gt;Under the guidance of Dr Lan, a team of three undergraduate students received the Infinite Potential Award (潛力無限獎) at the 2025 Innovation Arena (興創競技場), organised by the Startup @NCHU Innovation Center. The team developed a biomimetic rotary-wing unmanned aerial vehicle inspired by natural flight mechanisms, highlighting the practical potential of university-driven innovation and applied research.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>New Journal Paper on Drones</title>
+      <link>https://ailab-research.github.io/news/2022/2022-08-17-drones/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2022/2022-08-17-drones/</guid>
+      <description>&lt;p&gt;Dr Lan and his team published a study in Drones introducing a neural network approach for estimating transient aerodynamic properties in flapping wing systems. The research supports faster and more efficient analysis of flapping flight dynamics.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.3390/drones6080210&#34;&gt;https://doi.org/10.3390/drones6080210&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
