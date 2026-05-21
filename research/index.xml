@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Advanced Integration Laboratory</title>
+    <link>https://ailab-research.github.io/research/</link>
+    <description>Recent content in Research on Advanced Integration Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="https://ailab-research.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flapping Flight</title>
+      <link>https://ailab-research.github.io/research/flapping-flight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/research/flapping-flight/</guid>
+      <description>&lt;p&gt;Flapping flight provides a highly efficient and agile locomotion strategy observed in insects and small flying organisms. Research in this area integrates fluid dynamics, computational modelling, experimental analysis, and aerial robotics to investigate the aerodynamic and control principles underlying bio-inspired flight systems.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-topics&#34;&gt;Key topics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Flapping aerodynamics&lt;/li&gt;&#xA;&lt;li&gt;Aerial robotic systems&lt;/li&gt;&#xA;&lt;li&gt;Fluid–structure interaction&lt;/li&gt;&#xA;&lt;li&gt;Flight control&lt;/li&gt;&#xA;&lt;li&gt;Computational simulation&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Olfactory Navigation</title>
+      <link>https://ailab-research.github.io/research/olfactory-navigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/research/olfactory-navigation/</guid>
+      <description>&lt;p&gt;Olfactory navigation studies how biological organisms locate and track odour sources in complex environments. Research combines insect behavioural experiments, plume dynamics analysis, computational simulation, and robotic validation to investigate navigation strategies inspired by biological sensing systems.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-topics&#34;&gt;Key topics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Insect navigation behaviour&lt;/li&gt;&#xA;&lt;li&gt;Odour plume dynamics&lt;/li&gt;&#xA;&lt;li&gt;Bio-inspired sensing&lt;/li&gt;&#xA;&lt;li&gt;Autonomous navigation&lt;/li&gt;&#xA;&lt;li&gt;Behavioural modelling&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Computational Intelligence</title>
+      <link>https://ailab-research.github.io/research/computational-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/research/computational-intelligence/</guid>
+      <description>&lt;p&gt;Computational intelligence research applies modelling, machine learning, and optimisation techniques to analyse complex engineering systems and accelerate scientific workflows. Current work focuses on integrating data-driven methods with simulation, control, and intelligent system design.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-topics&#34;&gt;Key topics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine learning&lt;/li&gt;&#xA;&lt;li&gt;Data-driven modelling&lt;/li&gt;&#xA;&lt;li&gt;Computational optimisation&lt;/li&gt;&#xA;&lt;li&gt;Scientific computing&lt;/li&gt;&#xA;&lt;li&gt;Intelligent control systems&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Robotic Systems</title>
+      <link>https://ailab-research.github.io/research/robotics-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/research/robotics-systems/</guid>
+      <description>&lt;p&gt;Robotic systems research focuses on the design and integration of autonomous platforms across aerial, ground, and underwater environments. Current work combines bio-inspired mechanics, embedded sensing, and control strategies to develop adaptive and environmentally interactive robotic systems.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-topics&#34;&gt;Key topics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Biomimetic robotics&lt;/li&gt;&#xA;&lt;li&gt;Autonomous platforms&lt;/li&gt;&#xA;&lt;li&gt;Embedded sensing&lt;/li&gt;&#xA;&lt;li&gt;Adaptive control&lt;/li&gt;&#xA;&lt;li&gt;Robot system integration&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

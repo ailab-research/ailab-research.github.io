@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Odour on Advanced Integration Laboratory</title>
+    <link>https://ailab-research.github.io/tags/odour/</link>
+    <description>Recent content in Odour on Advanced Integration Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ailab-research.github.io/tags/odour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qi-Sheng Huang Earns Honourable Mention at CSME Conference</title>
+      <link>https://ailab-research.github.io/news/2025/2025-12-05-csme/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-12-05-csme/</guid>
+      <description>&lt;p&gt;At this year’s CSME Conference, Qi-Sheng Huang received an Honourable Mention (佳作) in the student paper competition for research supervised by Dr Lan. The study applied the silkmoth’s tracking behaviour to robotic guidance and control, achieving improved efficiency and accuracy through a nature-inspired approach.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Study on Odour Boundaries Published in Physica D</title>
+      <link>https://ailab-research.github.io/news/2025/2025-07-18-journal/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2025/2025-07-18-journal/</guid>
+      <description>&lt;p&gt;Dr Lan’s latest study, Flow-induced variations in odour boundary formation, examines how odours spread in moving air through flow simulations. The research found that stronger airflow speeds narrow and stabilise odour boundaries, offering insights for biological tracking studies and the development of odour-sensing robots in complex environments.&lt;/p&gt;&#xA;&lt;p&gt;For more information please refer to &lt;a href=&#34;https://doi.org/10.1016/j.physd.2025.134827&#34;&gt;https://doi.org/10.1016/j.physd.2025.134827&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hsing-Yun Huang and Thanh Kim Hua Earn Honours at CSME</title>
+      <link>https://ailab-research.github.io/news/2024/2024-11-17-csme/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2024/2024-11-17-csme/</guid>
+      <description>&lt;p&gt;Dr Lan’s students, Hsing-Yun Huang and Thanh Kim Hua, received Honourable Mentions (佳作) at the CSME Student Paper Competition for their research achievements. Their awards recognise innovative research contributions and reflect the strong academic mentorship within Dr Lan’s team.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preliminary Odour Tracking Study Presented at CSME Conference</title>
+      <link>https://ailab-research.github.io/news/2023/2023-12-01-csme/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2023/2023-12-01-csme/</guid>
+      <description>&lt;p&gt;After presenting preliminary odour-tracking research at the 40th CSME Conference in Changhua, Dr Lan and lab members Kim Thanh Hua and Hsing-Yun Huang exchanged ideas with researchers from multiple universities. The discussions on biomimetics and related topics further broadened their academic perspectives.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr Lan to Give Keynote Speech at National Defense University</title>
+      <link>https://ailab-research.github.io/news/2023/2023-02-24-speech/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2023/2023-02-24-speech/</guid>
+      <description>&lt;p&gt;Dr Lan delivers an inspiring speech on the application of odour sensing at National Defense University.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
