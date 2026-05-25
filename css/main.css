@@ -388,6 +388,10 @@ h3 {
   margin-bottom: 12px;
 }
 
+.section-heading a {
+  text-align: right;
+}
+
 .page-nav-row {
   margin-bottom: 8px;
 }
@@ -1728,8 +1732,9 @@ h3 {
 }
 
 .profile-detail-section h2 {
-  color: #162b3f;
-  font-size: 1rem;
+  color: #183f66;
+  font-size: clamp(1.12rem, 0.9vw + 0.92rem, 1.3rem);
+  font-weight: 820;
   line-height: 1.3;
   margin: 0;
 }
