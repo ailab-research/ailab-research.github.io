@@ -2189,7 +2189,7 @@ h3 {
   display: grid;
   gap: 1px;
   min-width: 0;
-  padding: 10px 0 5px;
+  padding: 10px 13px 5px;
   position: relative;
   transition: background-color 160ms ease, border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
 }
@@ -2338,7 +2338,7 @@ h3 {
 
   .award-card {
     gap: 0;
-    padding: 9px 0 4px;
+    padding: 9px 13px 4px;
   }
 
   .award h3 {
