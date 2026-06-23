@@ -2160,7 +2160,7 @@ h3 {
   font-weight: 780;
   letter-spacing: 0.02em;
   line-height: 1.35;
-  margin-top: 8px;
+  margin-top: 9px;
   padding: 3px 8px;
   text-align: center;
   width: 62px;
@@ -2305,6 +2305,13 @@ h3 {
     padding: 9px 8px;
   }
 
+  .award-tab strong {
+    display: inline-flex;
+    justify-self: center;
+    min-width: 0;
+    width: auto;
+  }
+
   .award-panel-header {
     align-items: flex-start;
     display: grid;
@@ -2313,12 +2320,12 @@ h3 {
 
   .award {
     gap: 8px;
-    grid-template-columns: 58px minmax(0, 1fr);
+    grid-template-columns: 66px minmax(0, 1fr);
     padding: 0;
   }
 
   .award-list::before {
-    left: 53px;
+    left: 61px;
   }
 
   .award-year-mark {
@@ -2328,7 +2335,7 @@ h3 {
   }
 
   .award-year-start .award-year-mark::after {
-    left: 47px;
+    left: 55px;
     top: 16px;
   }
 
@@ -2351,7 +2358,6 @@ h3 {
     font-size: 0.78rem;
   }
 }
-
 
 .contact-layout {
   align-items: start;
