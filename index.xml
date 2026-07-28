@@ -6,7 +6,7 @@
     <description>Recent content in Home on Advanced Integration Laboratory</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ailab-research.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flapping Flight</title>
@@ -49,6 +49,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ailab-research.github.io/research/robotics-systems/</guid>
       <description>&lt;p&gt;Robotic systems research focuses on the design and integration of autonomous platforms across aerial, ground, and underwater environments. Current work combines bio-inspired mechanics, embedded sensing, and control strategies to develop adaptive and environmentally interactive robotic systems.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-topics&#34;&gt;Key topics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Biomimetic robotics&lt;/li&gt;&#xA;&lt;li&gt;Autonomous platforms&lt;/li&gt;&#xA;&lt;li&gt;Embedded sensing&lt;/li&gt;&#xA;&lt;li&gt;Adaptive control&lt;/li&gt;&#xA;&lt;li&gt;Robot system integration&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Moth-Inspired Robot Places Fifth in Biomimetic Robotics</title>
+      <link>https://ailab-research.github.io/news/2026/2026-06-25-biomimicry/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://ailab-research.github.io/news/2026/2026-06-25-biomimicry/</guid>
+      <description>&lt;p&gt;The lab&amp;rsquo;s silk moth-inspired robot placed fifth in the Biomimetic Robotics category at the 2026 Bionic Design Competition (仿生設計競賽). Inspired by the silkmoth&amp;rsquo;s odour-sensing abilities, the robot explores bio-inspired approaches to robotic sensing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lab Teams Receive Honours at Engineering Research Project Competition</title>
