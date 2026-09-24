@@ -2242,6 +2242,13 @@ h3 {
   margin: 0;
 }
 
+.award-collaboration {
+  color: #526b7f;
+  font-size: 0.78em;
+  font-weight: 560;
+  margin-left: 0.55em;
+}
+
 .award-local-title {
   color: #667684;
   display: inline;
